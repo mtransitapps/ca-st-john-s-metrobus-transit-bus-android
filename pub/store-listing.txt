@@ -2,7 +2,7 @@ Title: Metrobus Transit Bus - MonTra…
 ----------
 Short description:
 St John's Metrobus Transit buses for MonTransit BETA.
-Schedule. News. Service Bulletins.
+Schedule. News. Bulletins.
 ----------
 What's new in this version?:
 Schedule from January 20, 2014 to May 20, 2015.
