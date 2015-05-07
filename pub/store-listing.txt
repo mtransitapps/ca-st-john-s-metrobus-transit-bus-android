@@ -1,0 +1,52 @@
+Title: Metrobus Transit Bus - MonTra…
+----------
+Short description:
+St John's Metrobus Transit buses for MonTransit BETA.
+Schedule. News. Service Bulletins.
+----------
+What's new in this version?:
+Schedule from January 20, 2014 to May 20, 2015.
+News from www.metrobus.com.
+Tweets from @MetrobusTransit.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+----------
+Full description:
+This app adds St John's Metrobus Transit busses information to MonTransit BETA.
+
+This app provides the schedule as well as news and service bulletins from www.metrobus.com and @MetrobusTransit on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Metrobus Transit busses serve St John's, Mount Pearl in Newfoundland and Labrador, Canada.
+
+Once this application is installed, the MonTransit BETA app will display busses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by St John's Transportation Commission (Metrobus Transit).
+http://www.metrobus.com/insidepages.asp
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-st-john-s-metrobus-transit-bus-android
+
+This app is not related with St John's Transportation Commission (Metrobus Transit).
+
+Permissions:
+- Other: required to read news from www.metrobus.com and Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-st-john-s-metrobus-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:

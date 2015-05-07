@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">MonTransit Metrobus Transit Bus (St John\'s)</string>
+    <string name="app_desc">St John\'s Metrobus Transit Bus data for MonTransit.</string>
+</resources>
