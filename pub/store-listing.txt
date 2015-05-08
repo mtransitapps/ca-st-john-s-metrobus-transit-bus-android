@@ -12,15 +12,15 @@ Tweets from @MetrobusTransit.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds St John's Metrobus Transit busses information to MonTransit BETA.
+This app adds St John's Metrobus Transit buses information to MonTransit BETA.
 
 This app provides the schedule as well as news and service bulletins from www.metrobus.com and @MetrobusTransit on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-Metrobus Transit busses serve St John's, Mount Pearl in Newfoundland and Labrador, Canada.
+Metrobus Transit buses serve St John's, Mount Pearl in Newfoundland and Labrador, Canada.
 
-Once this application is installed, the MonTransit BETA app will display busses information (schedule...).
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
 
 This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
