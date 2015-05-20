@@ -5,8 +5,7 @@ St John's Metrobus Transit buses for MonTransit BETA.
 Schedule. News. Bulletins.
 ----------
 What's new in this version?:
-Schedule from January 20, 2014 to May 20, 2015.
-News from www.metrobus.com.
+Schedule from April 20, 2015 to June 28, 2015.
 Tweets from @MetrobusTransit.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
@@ -14,7 +13,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This app adds St John's Metrobus Transit buses information to MonTransit BETA.
 
-This app provides the schedule as well as news and service bulletins from www.metrobus.com and @MetrobusTransit on Twitter.
+This app provides the schedule as well as news and service bulletins from www.metrobus.com and @MetrobusTransit on Twitter and YouTube.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +34,7 @@ https://github.com/mtransitapps/ca-st-john-s-metrobus-transit-bus-android
 This app is not related with St John's Transportation Commission (Metrobus Transit).
 
 Permissions:
-- Other: required to read news from www.metrobus.com and Twitter
+- Other: required to read news from www.metrobus.com, Twitter and YouTube
 ----------
 Application type: Applications
 ----------
