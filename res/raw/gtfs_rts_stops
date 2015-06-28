@@ -25,7 +25,7 @@
 1125,'1125','8, Oxen Pond Rd',47.563492,-52.742806
 1130,'1130','193, University Ave',47.564142,-52.743253
 1135,'1135','175, University Ave',47.565583,-52.742525
-1140,'1140','120, University Ave',47.569167,-52.740242
+1140,'1140','University Ave / Osite / St. Andrews School',47.569167,-52.740242
 1145,'1145','Arctic Ave / Clinch Cr',47.572147,-52.737947
 1150,'1150','MUN Ctr',47.573342,-52.735563
 1155,'1155','Confederation Bldg',47.582742,-52.724681
@@ -76,7 +76,7 @@
 1375,'1375','35, Baird Pl',47.565061,-52.748986
 1380,'1380','Military Rd / Osite Bascilica',47.567119,-52.709306
 1385,'1385','113, Military Rd',47.56948,-52.70749
-1390,'1390','Military Rd / Cochrane St',47.571197,-52.704537
+1390,'1390','Military Rd / Government House',47.571197,-52.704537
 1395,'1395','9, Military Rd',47.571195,-52.702342
 1400,'1400','Kings Bridge Rd / Kings Bridge Crt',47.573824,-52.702481
 1405,'1405','Kings Bridge Rd / Dominion',47.575778,-52.702933
@@ -99,7 +99,7 @@
 1490,'1490','27, Middleton St',47.599232,-52.693019
 1495,'1495','280, Newfoundland Dr',47.597036,-52.694733
 1500,'1500','Newfoundland Dr / Logy Bay Rd',47.598196,-52.6977
-1505,'1505','Logy Bay Rd Southof Newfoundland Dr',47.597761,-52.698567
+1505,'1505','Logy Bay Rd / Logy Bay Mnr',47.597761,-52.698567
 1510,'1510','Logy Bay Rd / Osite Fairwood St',47.596361,-52.699792
 1515,'1515','32, MacDonald Dr',47.593986,-52.702147
 1520,'1520','67, MacDonald Dr',47.593583,-52.705878
@@ -115,13 +115,13 @@
 1565,'1565','Elizabeth Ave / Rodney St',47.571792,-52.728838
 1570,'1570','Elizabeth Ave / Front Of MUN',47.570761,-52.730911
 1575,'1575','Elizabeth Ave / Osite Keegan Court',47.56707,-52.735998
-1580,'1580','Elizabeth Ave / Sommerville',47.56492,-52.738388
-1585,'1585','Freshwater Rd / Don Cherry''s',47.563114,-52.741108
-1590,'1590','Freshwater Rd / KFC',47.561489,-52.745689
+1580,'1580','Elizabeth Ave / St James Church',47.56492,-52.738388
+1585,'1585','286, Freshwater Rd',47.563114,-52.741108
+1590,'1590','Freshwater Rd / Mana Bakery',47.561489,-52.745689
 1595,'1595','Avalon Mall / Lower Stop',47.560279,-52.753034
 1600,'1600','Avalon Mall / Upper Stop',47.55998,-52.757371
 1605,'1605','38, O''Leary Ave (Body Works)',47.560369,-52.760339
-1610,'1610','Peet St / XS Cargo',47.558415,-52.760229
+1610,'1610','Peet St / CORA''S Restaruant',47.558415,-52.760229
 1611,'1611','Kenmount Rd / Cohens',47.55756,-52.75858
 1613,'1613','Kenmount Rd / Ornamental Concrete',47.551964,-52.775243
 1614,'1614','Kenmount Rd / Ramada',47.55507,-52.76761
@@ -139,7 +139,7 @@
 1670,'1670','117, Elizabeth Ave',47.5799,-52.716871
 1675,'1675','95, Elizabeth Ave (Johnson Ins)',47.581167,-52.714373
 1680,'1680','Elizabeth Ave / RBC',47.582591,-52.711615
-1685,'1685','Elizabeth Ave / Holiday Lanes',47.584322,-52.709748
+1685,'1685','Elizabeth Ave / Scotiabank',47.584322,-52.709748
 1690,'1690','Torbay Rd / Howley Ests Sobeys',47.58724,-52.708449
 1695,'1695','Torbay Rd / Glenbrook Lodge',47.588314,-52.709481
 1700,'1700','Torbay Rd / Torbay Rd Mall',47.591924,-52.709459
@@ -160,7 +160,7 @@
 1765,'1765','Charter Ave / Arnold Loop',47.588854,-52.686329
 1770,'1770','Charter Ave / Janeway Pl',47.588386,-52.689039
 1775,'1775','Charter Ave / Bldg 530',47.586581,-52.691956
-1780,'1780','Charter Ave / Placentia Pl',47.585269,-52.693786
+1780,'1780','99, Charter Ave /',47.585269,-52.693786
 1785,'1785','Charter Ave / Roosevelt Ave',47.584917,-52.695837
 1790,'1790','Charter Ave / Bldg 314 (Cabot)',47.585144,-52.69892
 1795,'1795','Churchill Ave / Middle Of Legion & Selfridge',47.583258,-52.696684
@@ -176,7 +176,7 @@
 1850,'1850','Freshwater Rd / Parade St',47.564176,-52.715183
 1855,'1855','54, LeMarchant Rd (Spairs)',47.562622,-52.716356
 1860,'1860','94, LeMarchant Rd',47.560969,-52.7177
-1865,'1865','LeMarchant Rd / Harrington School',47.559539,-52.718883
+1865,'1865','120, LeMarchant Rd',47.559539,-52.718883
 1870,'1870','LeMarchant Rd / St. Clare''s Hosp',47.557342,-52.720719
 1875,'1875','206, LeMarchant Rd',47.556111,-52.721786
 1880,'1880','LeMarchant Rd / Sh / Ers Drug Mart',47.554122,-52.723481
@@ -192,9 +192,9 @@
 1930,'1930','689, Water St (Campbell''s Ships)',47.549939,-52.718256
 1935,'1935','Water St / Osite Patrick St',47.552383,-52.715428
 1940,'1940','495, Water St (Railway Museum)',47.554794,-52.713659
-1945,'1945','365, Water St (/ Harbour Dr)',47.55955,-52.71153
-1950,'1950','Water St / Adelaide',47.561092,-52.71039
-1955,'1955','277, Water St / Bowering Bldg',47.562208,-52.70919
+1945,'1945','351, Water St / Flight Ctr',47.55955,-52.71153
+1950,'1950','Water St / Bishops Cv',47.561092,-52.71039
+1955,'1955','285, Water St (Model Shop)',47.562208,-52.70919
 1960,'1960','215, Water St (Atlantic Pl)',47.563103,-52.70796
 1965,'1965','179, Water St (Gallery Shoes)',47.564305,-52.706778
 1970,'1970','155, Water St (Fortis Bldg)',47.565447,-52.7056
@@ -202,8 +202,6 @@
 1980,'1980','115, Duckworth St / Portobellos',47.569542,-52.701608
 1985,'1985','Cavendish Sq / Sheraton Hotel',47.570833,-52.700667
 1990,'1990','New Cv Rd / YMCA',47.577961,-52.70609
-1991,'1991','New Cv Rd / Canadian Tire',47.584075,-52.710747
-1992,'1992','148, New Cv Rd',47.585291,-52.712127
 1995,'1995','63, New Cv Rd',47.578742,-52.70752
 2000,'2000','76, New Cv Rd',47.581262,-52.70848
 2005,'2005','112, New Cv Rd',47.58294,-52.70958
@@ -240,18 +238,18 @@
 2155,'2155','35, New Cv Rd',47.577811,-52.705914
 2160,'2160','104, Duckworth St (Caines Store)',47.569939,-52.701347
 2165,'2165','Water St / Sir Humphrey Gilbert Bldg',47.567906,-52.702911
-2170,'2170','Water St / TD Pl',47.565922,-52.705267
+2170,'2170','Water St / TD Bldg',47.565922,-52.705267
 2175,'2175','196, Water St (Courthouse)',47.564365,-52.706965
 2180,'2180','240, Water St (Credit Union)',47.56299,-52.70834
 2185,'2185','294, Water St (Canary Cycles)',47.56205,-52.709764
-2190,'2190','Water St / Convention Ctr',47.559972,-52.711251
-2195,'2195','488, Water St (Apothecary Hall)',47.555954,-52.713051
+2190,'2190','348, Water St (Post Office)',47.559972,-52.711251
+2195,'2195','488, Water St / Brennan St',47.555954,-52.713051
 2200,'2200','524, Water St / Powerlite Electric',47.554122,-52.714322
-2205,'2205','606, Water St / Old Irving Sation',47.551622,-52.716819
-2210,'2210','Water St (Front Of DF Barnes)',47.550643,-52.718143
+2205,'2205','Water St / Osite Oceanex',47.551622,-52.716819
+2210,'2210','650, Water St / Pennecon',47.550643,-52.718143
 2215,'2215','726, Water St / Healy''s Pharmancy',47.548672,-52.719967
 2220,'2220','14, Old Topsail Rd',47.547267,-52.721569
-2225,'2225','227, Craigmillar Ave',47.545492,-52.725608
+2225,'2225','22, Craigmillar Ave',47.545492,-52.725608
 2230,'2230','63, Craigmillar Ave / Osite (St. Mary''s Church)',47.54472,-52.72915
 2235,'2235','122, Craigmillar Ave',47.543365,-52.731918
 2240,'2240','142, Craigmillar Ave',47.542699,-52.733662
@@ -292,7 +290,7 @@
 2420,'2420','Waterford Bridge Rd / Beaconsfield',47.532951,-52.738803
 2425,'2425','Waterford Bridge Rd / Littledale',47.531499,-52.740206
 2430,'2430','280, Waterford Bridge Rd',47.52955,-52.743942
-2435,'2435','298, Waterford Bridge Rd',47.529281,-52.746163
+2435,'2435','298, Waterford Bridge Rd (/ Duck Pond)',47.529281,-52.746163
 2440,'2440','Waterford Bridge Rd / Waterford H',47.528217,-52.748555
 2445,'2445','309, Waterford Bridge Rd',47.527031,-52.752961
 2450,'2450','Waterford Bridge Rd / Osite Pk',47.525614,-52.757069
@@ -788,20 +786,21 @@
 4945,'4945','835, Topsail Rd / (Enterprise Car Rentals)',47.524022,-52.790961
 4950,'4950','Topsail Rd / Mary Queen Of The World School',47.523548,-52.786349
 4955,'4955','Aberdeen Ave / Swiss Chalet',47.617754,-52.715629
+4956,'4956','Whiterose Dr / Golf Town',47.619686,-52.719709
+4957,'4957','Whiterose Dr / Embrace Orthodontics',47.617586,-52.722367
+4959,'4959','Torbay Rd. / Marie''s Mini Mart',47.616718,-52.723201
 4960,'4960','Clinch Cres / Faculty Of Medicine',47.573008,-52.740561
 4975,'4975','222, Main Rd',47.47373,-52.76955
 4982,'4982','Clinch Cres / Faculty Of Med',47.57276,-52.7397
 4985,'4985','Clinch Cres / Janeway',47.572354,-52.744499
 5020,'5020','10, Larkhall St',47.56326,-52.75504
-5025,'5025','Long''s Hl / Harvey Rd',47.56445,-52.71368
+5025,'5025','Harvey Rd / Long''s Hl',47.56445,-52.71368
 5030,'5030','Rd Deluxe / Pratt Pl',47.537492,-52.738747
 5035,'5035','Rd Deluxe / Pratt Pl',47.537639,-52.739122
 5040,'5040','Stavanger Dr / Staples',47.616535,-52.716709
 5045,'5045','1, Whiteway St',47.570705,-52.724602
 5050,'5050','3, Rodney St',47.57101,-52.72746
 5070,'5070','16, Empire Ave',47.57518,-52.70215
-5091,'5091','130, Portugal Cv Rd',47.586966,-52.714597
-5092,'5092','170, Portugal Cv Rd',47.588515,-52.717
 6004,'6004','50, Gre / Eastern Ave',47.549005,-52.793698
 6006,'6006','Kelsey Dr / Osite Subway',47.550969,-52.77967
 6007,'6007','Kelsey Dr / Home Depot',47.553794,-52.781517
@@ -816,6 +815,8 @@
 6053,'6053','114, Lady Smith Dr',47.553977,-52.791033
 6054,'6054','157, Lady Smith Dr',47.555172,-52.794913
 6055,'6055','27, Petite Forte Dr',47.551306,-52.794478
-6058,'6058','Torbay Rd. / Marie''s Mini Mart',47.616718,-52.723201
 6060,'6060','Kiwanis St (Pets Unlimited)',47.551032,-52.781294
-6065,'6065','Kiwanis St / Hamlet St',47.549313,-52.785557
+6062,'6062','Hebron Way / Harvey''s Restaurant',47.617397,-52.724243
+6063,'6063','464, Torbay Rd / Dulux Paints',47.607461,-52.720624
+6064,'6064','Hebron Way / Browne''s Auto Parts',47.617,-52.725076
+6067,'6067','Kiwanis St / Hamlet St',47.549313,-52.785557
