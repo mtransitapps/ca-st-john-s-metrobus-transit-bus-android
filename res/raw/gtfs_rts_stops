@@ -115,7 +115,7 @@
 1565,'1565','Elizabeth Ave / Rodney St',47.571792,-52.728838
 1570,'1570','Elizabeth Ave / Front Of MUN',47.570761,-52.730911
 1575,'1575','Elizabeth Ave / Osite Keegan Court',47.56707,-52.735998
-1580,'1580','Elizabeth Ave / St James Church',47.56492,-52.738388
+1580,'1580','Elizabeth Ave / Summerville Plz',47.56492,-52.738388
 1585,'1585','286, Freshwater Rd',47.563114,-52.741108
 1590,'1590','Freshwater Rd / Mana Bakery',47.561489,-52.745689
 1595,'1595','Avalon Mall / Lower Stop',47.560279,-52.753034
@@ -202,6 +202,8 @@
 1980,'1980','115, Duckworth St / Portobellos',47.569542,-52.701608
 1985,'1985','Cavendish Sq / Sheraton Hotel',47.570833,-52.700667
 1990,'1990','New Cv Rd / YMCA',47.577961,-52.70609
+1991,'1991','New Cv Rd / Canadian Tire',47.584075,-52.710747
+1992,'1992','148, New Cv Rd',47.585291,-52.712127
 1995,'1995','63, New Cv Rd',47.578742,-52.70752
 2000,'2000','76, New Cv Rd',47.581262,-52.70848
 2005,'2005','112, New Cv Rd',47.58294,-52.70958
@@ -787,7 +789,7 @@
 4950,'4950','Topsail Rd / Mary Queen Of The World School',47.523548,-52.786349
 4955,'4955','Aberdeen Ave / Swiss Chalet',47.617754,-52.715629
 4956,'4956','Whiterose Dr / Golf Town',47.619686,-52.719709
-4957,'4957','Whiterose Dr / Embrace Orthodontics',47.617586,-52.722367
+4957,'4957','Whiterose Dr / Embrace Orthodontics',47.617758,-52.722129
 4959,'4959','Torbay Rd. / Marie''s Mini Mart',47.616718,-52.723201
 4960,'4960','Clinch Cres / Faculty Of Medicine',47.573008,-52.740561
 4975,'4975','222, Main Rd',47.47373,-52.76955
@@ -801,6 +803,9 @@
 5045,'5045','1, Whiteway St',47.570705,-52.724602
 5050,'5050','3, Rodney St',47.57101,-52.72746
 5070,'5070','16, Empire Ave',47.57518,-52.70215
+5091,'5091','130, Portugal Cv Rd',47.586966,-52.714597
+5092,'5092','170, Portugal Cv Rd',47.588515,-52.717
+6003,'6003','Lady Smith Dr / Kenmount Rd',47.548347,-52.785262
 6004,'6004','50, Gre / Eastern Ave',47.549005,-52.793698
 6006,'6006','Kelsey Dr / Osite Subway',47.550969,-52.77967
 6007,'6007','Kelsey Dr / Home Depot',47.553794,-52.781517
@@ -815,9 +820,9 @@
 6053,'6053','114, Lady Smith Dr',47.553977,-52.791033
 6054,'6054','157, Lady Smith Dr',47.555172,-52.794913
 6055,'6055','27, Petite Forte Dr',47.551306,-52.794478
+6057,'6057','Kiwanis St / Hamlet St',47.549313,-52.785557
 6060,'6060','Kiwanis St (Pets Unlimited)',47.551032,-52.781294
 6062,'6062','Hebron Way / Harvey''s Restaurant',47.617397,-52.724243
-6063,'6063','464, Torbay Rd / Dulux Paints',47.607461,-52.720624
-6064,'6064','Hebron Way / Browne''s Auto Parts',47.617,-52.725076
 6065,'6065','Harvey Rd / Paramount Bldg',47.565532,-52.711626
-6067,'6067','Kiwanis St / Hamlet St',47.549313,-52.785557
+6066,'6066','The Blvd / Osite Department Of National Defence',47.581536,-52.69466
+6067,'6067','The Blvd / Front Of Dept Of National Defence',47.581816,-52.69462
