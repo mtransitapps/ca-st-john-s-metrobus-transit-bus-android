@@ -25,7 +25,7 @@
 1125,'1125','8, Oxen Pond Rd',47.563492,-52.742806
 1130,'1130','193, University Ave',47.564142,-52.743253
 1135,'1135','175, University Ave',47.565583,-52.742525
-1140,'1140','University Ave / Osite / St. Andrews School',47.569167,-52.740242
+1140,'1140','University Ave / St. Andrews School',47.569167,-52.740242
 1145,'1145','Arctic Ave / Clinch Cr',47.572147,-52.737947
 1150,'1150','MUN Ctr',47.573342,-52.735563
 1155,'1155','Confederation Bldg',47.582742,-52.724681
@@ -94,6 +94,7 @@
 1460,'1460','2, Newfoundland Dr',47.592617,-52.687272
 1465,'1465','40, Newfoundland Dr',47.594061,-52.688094
 1470,'1470','66, Montague St',47.596432,-52.688356
+1475,'1475','100, Montague St',47.597811,-52.688054
 1480,'1480','150, Montague St',47.599339,-52.688275
 1485,'1485','202, Montague St',47.599875,-52.690344
 1490,'1490','27, Middleton St',47.599232,-52.693019
@@ -284,7 +285,7 @@
 2375,'2375','Waterford Bridge Rd / Symes Bridge',47.543517,-52.724936
 2380,'2380','51, Waterford Bridge Rd',47.544736,-52.723053
 2385,'2385','30, Waterford Bridge Rd',47.544992,-52.722842
-2390,'2390','Waterford Bridge Rd / Cemetary',47.543714,-52.72478
+2390,'2390','Waterford Bridge Rd / Cemetery',47.543714,-52.72478
 2395,'2395','112, Waterford Bridge Rd',47.541655,-52.728261
 2405,'2405','156, Waterford Bridge Rd',47.537788,-52.734033
 2410,'2410','168, Waterford Bridge Rd',47.536467,-52.735248
@@ -784,7 +785,8 @@
 4925,'4925','21, Commonwealth Ave (Mary Browns)',47.519165,-52.807412
 4930,'4930','Commonwealth Ave / Mt Pearl Plz',47.521681,-52.807372
 4935,'4935','Topsail Rd / Luckys Restaurant',47.523362,-52.801661
-4940,'4940','Topsail Rd / Forsey Pl',47.523635,-52.799165
+4940,'4940','Topsail Rd / Forsey Pl',47.523649,-52.79901
+4942,'4942','861, Topsail Rd',47.524192,-52.795065
 4945,'4945','835, Topsail Rd / (Enterprise Car Rentals)',47.524022,-52.790961
 4950,'4950','Topsail Rd / Mary Queen Of The World School',47.523548,-52.786349
 4955,'4955','Aberdeen Ave / Swiss Chalet',47.617754,-52.715629
@@ -793,6 +795,7 @@
 4959,'4959','Torbay Rd. / Marie''s Mini Mart',47.616718,-52.723201
 4960,'4960','Clinch Cres / Faculty Of Medicine',47.573008,-52.740561
 4975,'4975','222, Main Rd',47.47373,-52.76955
+4980,'4980','Clinch Cr / Prince Philip Dr',47.57154,-52.73818
 4982,'4982','Clinch Cres / Faculty Of Med',47.57276,-52.7397
 4985,'4985','Clinch Cres / Janeway',47.572354,-52.744499
 5020,'5020','10, Larkhall St',47.56326,-52.75504
