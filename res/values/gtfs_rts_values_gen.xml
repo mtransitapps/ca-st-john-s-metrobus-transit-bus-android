@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/St_Johns</string>
     <string name="gtfs_rts_area_min_lat">47.436518</string>
     <string name="gtfs_rts_area_max_lat">47.619686</string>
-    <string name="gtfs_rts_area_min_lng">-52.839358</string>
+    <string name="gtfs_rts_area_min_lng">-52.839562</string>
     <string name="gtfs_rts_area_max_lng">-52.681228</string>
     <string name="gtfs_rts_color">A19153</string>
 </resources>
