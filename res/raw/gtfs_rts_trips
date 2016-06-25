@@ -22,14 +22,10 @@
 1500,0,'Cuckholds Cv',15
 1600,0,'Kenmount Ter',16
 1601,0,'MUN Ctr',16
-1701,0,'MUN Ctr',17
-1700,0,'Torbay Rd',17
 1800,0,'Goulds',18
 1801,0,'The Vlg',18
 1900,0,'Avalon Mall',19
 1901,0,'The Vlg',19
-2000,0,'Airport Hts',20
-2001,0,'Avalon Mall',20
 2100,0,'Mt Pearl',21
 2101,0,'The Vlg',21
 2200,0,'Mt Pearl',22
@@ -38,3 +34,5 @@
 2300,0,'Stavanger Dr',23
 2500,0,'Goulds',25
 2501,0,'The Vlg',25
+3000,0,'Avalon Mall',30
+3001,0,'Paradise',30
