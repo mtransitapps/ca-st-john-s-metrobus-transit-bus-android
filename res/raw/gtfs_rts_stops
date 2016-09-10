@@ -201,6 +201,7 @@
 1985,'1985','Cavendish Sq / Sheraton Hotel',47.570833,-52.700667
 1990,'1990','New Cv Rd / YMCA',47.577961,-52.70609
 1991,'1991','New Cv Rd / Canadian Tire',47.584075,-52.710747
+1992,'1992','148, New Cv Rd',47.585289,-52.712111
 1995,'1995','63, New Cv Rd',47.578742,-52.70752
 2000,'2000','76, New Cv Rd',47.581262,-52.70848
 2005,'2005','112, New Cv Rd',47.58294,-52.70958
@@ -241,7 +242,7 @@
 2175,'2175','196, Water St (Courthouse)',47.564365,-52.706965
 2180,'2180','240, Water St (Credit Union)',47.56299,-52.70834
 2185,'2185','294, Water St (Canary Cycles)',47.56205,-52.709764
-2190,'2190','348, Water St (Post Office)',47.559972,-52.711251
+2190,'2190','Water St / Convention Ctr',47.559972,-52.711251
 2195,'2195','488, Water St / Brennan St',47.555954,-52.713051
 2200,'2200','524, Water St / Powerlite Electric',47.554122,-52.714322
 2205,'2205','Water St / Osite Oceanex',47.551622,-52.716819
@@ -829,10 +830,12 @@
 6057,'6057','Kiwanis St / Hamlet St',47.549313,-52.785557
 6060,'6060','Kiwanis St (Pets Unlimited)',47.551032,-52.781294
 6062,'6062','Hebron Way / Harvey''s Restaurant',47.617397,-52.724243
+6063,'6063','464, Torbay Rd / Dulux Paints',47.607461,-52.720624
 6065,'6065','Harvey Rd / Paramount Bldg',47.565532,-52.711626
 6066,'6066','The Blvd / Osite Department Of National Defence',47.581536,-52.69466
 6067,'6067','The Blvd / Front Of Dept Of National Defence',47.581816,-52.69462
 6069,'6069','Paradise Double Ice Complex',47.523625,-52.870379
+6079,'6079','Logy Bay Rd / Breens Deli',47.600253,-52.695578
 6080,'6080','Logy Bay Rd / Cambridge Ave',47.601882,-52.69399
 6081,'6081','Logy Bay Rd / Parsonage Pl',47.603772,-52.691847
 6082,'6082','Logy Bay Rd / Gregory St',47.607392,-52.689608
