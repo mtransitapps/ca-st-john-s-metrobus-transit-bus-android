@@ -5,7 +5,7 @@ St John's Metrobus Transit buses for MonTransit.
 Schedule. News. Bulletins.
 ----------
 What's new in this version?:
-Schedule from April 23, 2018 to June 24, 2018.
+Schedule from June 25, 2018 to September 3, 2018.
 Tweets from @MetrobusTransit.
 ----------
 Full description:
