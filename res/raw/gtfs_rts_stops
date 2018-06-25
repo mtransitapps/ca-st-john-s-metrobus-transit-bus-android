@@ -119,7 +119,7 @@
 1580,'1580','Elizabeth Ave / Summerville Plz',47.56492,-52.738388
 1585,'1585','286, Freshwater Rd',47.563114,-52.741108
 1590,'1590','Freshwater Rd / Mana Bakery',47.561489,-52.745689
-1600,'1600','Avalon Mall / Upper Stop',47.55998,-52.757371
+1600,'1600','Avalon Mall / Upper Stop',47.560106,-52.756461
 1605,'1605','38, O''Leary Ave (Body Works)',47.560369,-52.760339
 1610,'1610','Peet St / CORA''S Restaruant',47.558415,-52.760229
 1611,'1611','Kenmount Rd / Cohens',47.55756,-52.75858
@@ -318,7 +318,7 @@
 2565,'2565','Thorburn Rd / Maries Mini Mart',47.564289,-52.76205
 2570,'2570','Thorburn Rd / North Of Austin St',47.564647,-52.766325
 2575,'2575','22, Goldstone St (Constantines)',47.56425,-52.771422
-2580,'2580','Kelsey Dr / Messenger Dr',47.55964,-52.78167
+2580,'2580','Kelsey Dr / Messenger Dr',47.559625,-52.78158
 2610,'2610','Kelsey Dr / Walmart',47.555126,-52.782729
 2615,'2615','Kelsey Dr / Sobeys',47.552675,-52.780892
 2620,'2620','Kenmount Rd / Tim Hortons',47.551847,-52.774929
@@ -494,7 +494,7 @@
 3520,'3520','10, Vinnicombe St',47.564106,-52.750767
 3525,'3525','200, Forest Rd',47.57954,-52.68536
 3530,'3530','7, Larkhall St',47.563697,-52.754958
-3535,'3535','27, Quidi Vidi Vlg Rd',47.58061,-52.68277
+3535,'3535','Quidi Vidi Vlg Rd / 99',47.582907,-52.678562
 3540,'3540','39, Cuckholds Cv Rd',47.579625,-52.681228
 3545,'3545','12, Cuckholds Cv Rd',47.57973,-52.68347
 3550,'3550','200, Forest Rd',47.579669,-52.685378
@@ -816,7 +816,7 @@
 6053,'6053','114, Lady Smith Dr',47.552863,-52.790386
 6054,'6054','157, Lady Smith Dr',47.555172,-52.794913
 6055,'6055','27, Petite Forte Dr',47.551306,-52.794478
-6057,'6057','Kiwanis St / Hamlet St',47.549313,-52.785557
+6057,'6057','Kiwanis St / Hamlet St',47.549096,-52.785544
 6060,'6060','Kiwanis St (Pets Unlimited)',47.550996,-52.781214
 6062,'6062','Hebron Way / Harvey''s Restaurant',47.617397,-52.724243
 6063,'6063','464, Torbay Rd / Dulux Paints',47.607461,-52.720624
