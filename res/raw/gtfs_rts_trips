@@ -2,8 +2,6 @@
 101,0,'Vlg Mall',1
 200,0,'Avalon Mall',2
 201,0,'Vlg Mall',2
-300,0,'Stavanger Dr',3
-301,0,'Vlg Mall',3
 501,0,'Avalon Mall',5
 500,0,'Virginia Pk',5
 600,0,'Downtown',6
@@ -39,3 +37,7 @@
 2701,0,'Railway / Cabot Tower',27
 3000,0,'Avalon Mall',30
 3001,0,'Paradise',30
+1000300,0,'Stavanger Dr',10003
+1000301,0,'Vlg Mall',10003
+2000300,0,'Stavanger Dr',20003
+2000301,0,'Vlg Mall',20003

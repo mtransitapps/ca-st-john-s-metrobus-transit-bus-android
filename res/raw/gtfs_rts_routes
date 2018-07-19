@@ -1,6 +1,5 @@
 1,'1','Village, Institutes','F6863C'
 2,'2','Malls Via Lemarchant / Elizabeth','26A450'
-3,'3','Village, Stavanger','8FC74A'
 5,'5','Avalon Mall - Virginia Park','F7ACB0'
 6,'6','Village, Sesame Pk, Downtown','933D40'
 9,'9','Torbay Rd, Institutes','691A5C'
@@ -19,3 +18,5 @@
 26,'26','Kenmount Terrace Semi Express','363435'
 27,'27','The Link',''
 30,'30','Paradise','EECE20'
+10003,'3A','Village, Stavanger','8FC74A'
+20003,'3B','Village, Stavanger','8FC74A'
