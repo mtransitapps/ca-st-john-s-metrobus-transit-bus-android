@@ -106,14 +106,14 @@
 1520,'1520','67, MacDonald Dr',47.593583,-52.705878
 1525,'1525','Torbay Rd Mall',47.592078,-52.709657
 1530,'1530','Torbay Rd / Glenbrook Lodge',47.589064,-52.709747
-1535,'1535','Elizabeth Ave / Canadian Tire',47.585293,-52.709471
-1540,'1540','84, Elizabeth Ave',47.583144,-52.711032
-1542,'1542','96, Elizabeth Ave',47.581564,-52.713972
+1535,'1535','Elizabeth Ave / Leon''s',47.585293,-52.709471
+1540,'1540','84, Elizabeth Ave / Regatta Plz',47.583144,-52.711032
+1542,'1542','98, Elizabeth Ave / St.David''s Church',47.581564,-52.713972
 1545,'1545','116, Elizabeth Ave',47.580317,-52.716312
 1550,'1550','Elizabeth Ave / St. Patrick''s Home',47.578175,-52.720403
 1555,'1555','Elizabeth Ave / Churchill Sq',47.575142,-52.723974
 1560,'1560','Elizabeth Ave / Burton''s Pond',47.573044,-52.726598
-1565,'1565','Elizabeth Ave / Rodney St',47.571792,-52.728838
+1565,'1565','147, Elizabeth Ave',47.571792,-52.728838
 1570,'1570','Elizabeth Ave / Front Of MUN',47.570761,-52.730911
 1575,'1575','Elizabeth Ave / Osite Keegan Court',47.56707,-52.735998
 1580,'1580','Elizabeth Ave / Summerville Plz',47.56492,-52.738388
@@ -133,13 +133,13 @@
 1640,'1640','267, Elizabeth Ave',47.569269,-52.733298
 1645,'1645','Elizabeth Ave / Osite MUN',47.570949,-52.730232
 1650,'1650','219, Elizabeth Ave',47.571942,-52.728249
-1655,'1655','205, Elizabeth Ave',47.572873,-52.726538
+1655,'1655','207, Elizabeth Ave',47.572873,-52.726538
 1660,'1660','Elizabeth Ave / Churchill Sq',47.575331,-52.723293
 1665,'1665','147, Elizabeth Ave',47.577922,-52.720578
 1670,'1670','117, Elizabeth Ave',47.5799,-52.716871
-1675,'1675','95, Elizabeth Ave (Johnson Ins)',47.581167,-52.714373
+1675,'1675','95, Elizabeth Ave (English School District)',47.581167,-52.714373
 1680,'1680','Elizabeth Ave / RBC',47.582591,-52.711615
-1685,'1685','Elizabeth Ave / Scotiabank',47.584322,-52.709748
+1685,'1685','Elizabeth Ave / Lawtons Drugs',47.584322,-52.709748
 1690,'1690','Torbay Rd / Howley Ests Sobeys',47.58724,-52.708449
 1695,'1695','Torbay Rd / Glenbrook Lodge',47.588314,-52.709481
 1700,'1700','Torbay Rd / Torbay Rd Mall',47.591924,-52.709459
@@ -185,17 +185,17 @@
 1910,'1910','35, Craigmillar Ave',47.545127,-52.726755
 1915,'1915','35, Old Topsail Rd',47.545847,-52.723514
 1920,'1920','13, Old Topsail Rd',47.546803,-52.721981
-1925,'1925','799, Water St (Michel''s Bakery)',47.548347,-52.720002
+1925,'1925','799, Water St (RDM Industrial)',47.548347,-52.720002
 1930,'1930','689, Water St (Campbell''s Ships)',47.549939,-52.718256
 1935,'1935','Water St / Osite Patrick St',47.552383,-52.715428
 1940,'1940','495, Water St (Railway Museum)',47.554794,-52.713659
 1945,'1945','351, Water St / Flight Ctr',47.560153,-52.710987
 1950,'1950','Water St / Bishops Cv',47.561092,-52.71039
-1955,'1955','285, Water St (Model Shop)',47.562208,-52.70919
+1955,'1955','285, Water St (Bowring Ctr)',47.562208,-52.70919
 1960,'1960','215, Water St (Atlantic Pl)',47.563103,-52.70796
 1965,'1965','179, Water St (Twisted Sisters Boutik)',47.564305,-52.706778
 1970,'1970','Water St / Osite Jack Axes',47.565447,-52.7056
-1975,'1975','Water St / Osite War Memorial',47.567325,-52.70341
+1975,'1975','Water St / Harbourside Pk',47.567325,-52.70341
 1980,'1980','115, Duckworth St / Portobellos',47.569542,-52.701608
 1985,'1985','Cavendish Sq / Sheraton Hotel',47.570833,-52.700667
 1990,'1990','New Cv Rd / YMCA',47.577961,-52.70609
@@ -221,14 +221,14 @@
 2072,'2072','344, Newfoundland Dr',47.600928,-52.708095
 2075,'2075','381, Newfoundland Dr / St Paul''s',47.601326,-52.705362
 2080,'2080','331, Newfoundland Dr',47.599362,-52.700499
-2090,'2090','577, Torbay Rd',47.61349,-52.722775
+2090,'2090','585, Torbay Rd',47.61349,-52.722775
 2095,'2095','Torbay Rd / City Tire',47.607067,-52.720589
 2100,'2100','Highland Dr / Torbay Rd',47.604769,-52.71705
 2105,'2105','17, Dunlea St',47.605103,-52.713953
 2110,'2110','28, Birchwynd St',47.604281,-52.711775
 2115,'2115','34, Gleneyre St',47.603769,-52.711053
 2120,'2120','Gleneyre St / Wedgewood Medical Ctr',47.601928,-52.712408
-2125,'2125','Torbay Rd South Of Gleneyre St',47.600669,-52.713019
+2125,'2125','Torbay Rd / Jungle Jim''s',47.600669,-52.713019
 2130,'2130','Torbay Rd / Osite MacDonald''s',47.59874,-52.711367
 2135,'2135','Torbay Rd / Osite Irving',47.59512,-52.709811
 2140,'2140','117, New Cv Rd',47.582802,-52.709664
@@ -240,13 +240,13 @@
 2170,'2170','Water St / TD Bldg',47.565922,-52.705267
 2175,'2175','196, Water St (Courthouse)',47.564365,-52.706965
 2180,'2180','240, Water St (Credit Union)',47.56299,-52.70834
-2185,'2185','294, Water St (Canary Cycles)',47.56205,-52.709764
+2185,'2185','294, Water St (Yellowbelly Brewery)',47.56205,-52.709764
 2190,'2190','Water St / Convention Ctr',47.559411,-52.711767
-2195,'2195','488, Water St / Brennan St',47.555954,-52.713051
+2195,'2195','488, Water St / @ Apothecary Hall',47.555954,-52.713051
 2200,'2200','524, Water St / Powerlite Electric',47.554122,-52.714322
 2205,'2205','Water St / Osite Oceanex',47.551622,-52.716819
 2210,'2210','650, Water St / Pennecon',47.550643,-52.718143
-2215,'2215','726, Water St / Healy''s Pharmancy',47.548672,-52.719967
+2215,'2215','726, Water St / RDM Industrial',47.548672,-52.719967
 2220,'2220','14, Old Topsail Rd',47.547267,-52.721569
 2225,'2225','22, Craigmillar Ave',47.545492,-52.725608
 2230,'2230','63, Craigmillar Ave / Osite (St. Mary''s Church)',47.54472,-52.72915
@@ -817,7 +817,7 @@
 6053,'6053','114, Lady Smith Dr',47.552863,-52.790386
 6054,'6054','157, Lady Smith Dr',47.555172,-52.794913
 6055,'6055','27, Petite Forte Dr',47.551306,-52.794478
-6057,'6057','Kiwanis St / Hamlet St',47.549096,-52.785544
+6057,'6057','Kiwanis St / Hamlet St',47.549413,-52.785267
 6060,'6060','Kiwanis St (Pets Unlimited)',47.550996,-52.781214
 6062,'6062','Hebron Way / Harvey''s Restaurant',47.617397,-52.724243
 6063,'6063','464, Torbay Rd / Dulux Paints',47.607461,-52.720624
