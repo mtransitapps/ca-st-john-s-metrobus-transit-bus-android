@@ -6,6 +6,13 @@
     <string name="rss_color">@string/gtfs_rts_color</string>
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">UTF-8</string>
+    <string-array name="rrs_file_cleaning_regex">
+        <item>"[\\S]&amp;reg;[\\s]"</item>
+		<!-- MILES&reg;  -->
+    </string-array>
+    <string-array name="rrs_file_cleaning_replacement">
+        <item>" &amp;reg; "</item>
+    </string-array>
     <string-array name="rss_feeds">
         <item>https://www.metrobus.com/rss/rss_service.xml</item>
         <item>https://www.metrobus.com/rss/rss_news.xml</item>
