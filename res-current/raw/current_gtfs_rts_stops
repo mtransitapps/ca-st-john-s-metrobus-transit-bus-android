@@ -193,7 +193,7 @@
 1950,'1950','Water St / Bishops Cv',47.561092,-52.71039
 1955,'1955','285, Water St (Bowring Ctr)',47.562208,-52.70919
 1960,'1960','215, Water St (Atlantic Pl)',47.563103,-52.70796
-1965,'1965','179, Water St (Twisted Sisters Boutik)',47.564305,-52.706778
+1965,'1965','179, Water St (Twisted Sisters Boutik)',47.56455,-52.706545
 1970,'1970','Water St / Osite Jack Axes',47.565447,-52.7056
 1975,'1975','Water St / Harbourside Pk',47.567325,-52.70341
 1980,'1980','115, Duckworth St / Portobellos',47.569542,-52.701608
@@ -914,6 +914,7 @@
 6174,'6174','162, Gre / Eastern Ave',47.544906,-52.801316
 6175,'6175','351, Kenmount Rd / Epilepsy Bld',47.549014,-52.781294
 6186,'6186','95, Bonaventure Ave',47.570048,-52.722431
+6189,'6189','719, Empire Ave',47.543621,-52.760327
 6194,'6194','49, Neptune Rd',47.556917,-52.750378
 6195,'6195','Polina Rd / @ Faith Bible Chaple',47.558601,-52.751142
 6196,'6196','255, Newfoundland Dr',47.595867,-52.691941
