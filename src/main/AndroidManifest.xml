@@ -26,7 +26,8 @@
         android:allowBackup="true"
         android:description="@string/app_desc"
         android:icon="@mipmap/module_app_icon"
-        android:label="@string/app_name" >
+        android:label="@string/app_name"
+        tools:ignore="GoogleAppIndexingWarning">
         <!-- SPLASH SCREEN -->
         <activity
             android:name="org.mtransit.android.commons.ui.ModuleRedirectActivity"
@@ -42,7 +43,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!-- GFTS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
+        <!-- GTFS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.GTFSProvider"
             android:authorities="@string/gtfs_rts_authority"
