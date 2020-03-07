@@ -6,7 +6,7 @@
 301,0,'Vlg Mall',3
 501,0,'Avalon Mall',5
 500,0,'Virginia Pk',5
-600,0,'Downtown',6
+600,0,'Seasame Pk',6
 601,0,'Vlg Mall',6
 901,0,'Mun Ctr',9
 900,0,'Robin Hood Bay Rd',9
@@ -27,6 +27,8 @@
 1801,0,'Vlg Mall',18
 1900,0,'Avalon Mall',19
 1901,0,'Vlg Mall',19
+2000,0,'Galway',20
+2001,0,'Vlg Mall',20
 2100,0,'Commonwealth Ave',21
 2101,0,'Vlg Mall',21
 2200,0,'Donovans',22
