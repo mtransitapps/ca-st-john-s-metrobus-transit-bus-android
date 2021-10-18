@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">1</integer>
+    <integer name="rss_db_version">2</integer>
     <string name="rss_authority">org.mtransit.android.ca_st_john_s_metrobus_transit_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
@@ -12,6 +12,10 @@
     <string-array name="rrs_file_cleaning_replacement">
         <item>"$1 &#174; "</item>
     </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.metrobus.com/favicon.ico</item>
+        <item>https://www.metrobus.com/favicon.ico</item>
+    </string-array>
     <string-array name="rss_feeds">
         <item>https://www.metrobus.com/rss/rss_service.xml</item>
         <item>https://www.metrobus.com/rss/rss_news.xml</item>
@@ -21,8 +25,8 @@
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.metrobus.com/bulletins.asp</item>
-        <item>https://www.metrobus.com/bulletins.asp</item>
+        <item>https://www.metrobus.com/html-default/bulletins.asp</item>
+        <item>https://www.metrobus.com/html-default/bulletins.aspp</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.metrobus.com</item>
