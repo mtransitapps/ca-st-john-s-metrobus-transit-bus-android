@@ -65,7 +65,7 @@
 1315,'1315','Topsail Rd - #322',47.537661,-52.740186
 1320,'1320','Topsail Rd - #352',47.536242,-52.742783
 1325,'1325','Topsail Rd By Shoppers Drug Mart',47.535364,-52.745028
-1330,'1330','Langley Rd',47.584507,-52.695711
+1330,'1330','Charter Ave - Bldg 308',47.584852,-52.696153
 1335,'1335','Hamilton Ave - #335',47.549081,-52.728747
 1340,'1340','LeMarchant Rd - #329',47.550661,-52.726303
 1345,'1345','LeMarchant Rd - Opp Smith Stockley',47.553094,-52.724211
@@ -86,6 +86,7 @@
 1425,'1425','Churchill Ave - Opp (MFRC) Military Family Resource Ctr',47.583419,-52.695819
 1427,'1427','Parsons Rd - #17',47.5845,-52.7044
 1428,'1428','Selfridge Rd By Ross Rd',47.58441,-52.70039
+1430,'1430','Charter Ave - Bldg 307',47.585208,-52.698609
 1440,'1440','Charter Ave Near E Dr',47.586496,-52.691899
 1445,'1445','Charter Ave - Bldg 802',47.588222,-52.689284
 1450,'1450','Charter Ave - Bldg 803',47.588773,-52.686632
@@ -157,7 +158,8 @@
 1770,'1770','Charter Ave Near Janeway Pl',47.588386,-52.689039
 1775,'1775','Charter Ave - Bldg 531',47.586581,-52.691956
 1780,'1780','Charter Ave Opp #99',47.585269,-52.693786
-1785,'1785','Langley Rd',47.584299,-52.696293
+1785,'1785','Charter Ave Near Roosevelt Ave',47.584917,-52.695837
+1790,'1790','Charter Ave - Near Selfridge Rd',47.585144,-52.69892
 1795,'1795','Churchill Ave - (MFRC) Military Family Resource Ctr',47.583258,-52.696684
 1800,'1800','Legion Rd - Side Of Dept Of National Defence',47.583775,-52.693486
 1805,'1805','The Blvd - Regency Towers',47.580614,-52.697972
@@ -259,6 +261,7 @@
 2345,'2345','Waterford Bridge Rd - #227',47.531558,-52.739883
 2350,'2350','Waterford Bridge Rd - #203',47.53346,-52.738043
 2355,'2355','Waterford Bridge Rd - #185',47.535306,-52.736192
+2360,'2360','Waterford Bridge Rd - #169',47.536958,-52.7347
 2410,'2410','Waterford Bridge Rd - #168',47.536467,-52.735248
 2415,'2415','Waterford Bridge Rd - #176',47.535079,-52.736656
 2420,'2420','Waterford Bridge Rd - Beaconsfield',47.532951,-52.738803
@@ -433,9 +436,6 @@
 3320,'3320','Airport Hts Dr - Opp Ln''s Retirement',47.604972,-52.747552
 3325,'3325','Airport Hts Dr - #73',47.602344,-52.743758
 3330,'3330','Airport Hgts Dr @ Halls Rd',47.60114,-52.74054
-3335,'3335','Branscombe St - #6',47.598691,-52.740629
-3340,'3340','Branscombe St - #60',47.597316,-52.73642
-3345,'3345','Rhodora Pl',47.601297,-52.737581
 3350,'3350','Majors Path @ International Pl',47.60439,-52.735605
 3355,'3355','Majors Path - #113',47.607989,-52.731708
 3370,'3370','Torbay Rd - Penney Ln',47.603964,-52.717753
@@ -472,7 +472,6 @@
 3520,'3520','Vinnicombe St - #10',47.564106,-52.750767
 3525,'3525','Forest Rd - #200',47.57954,-52.68536
 3530,'3530','Larkhall St - #7',47.563697,-52.754958
-3535,'3535','Regatta Ter - #27',47.58062,-52.682725
 3540,'3540','Cuckholds Cv Rd - #39',47.579625,-52.681228
 3545,'3545','Cuckholds Cv Rd Opp #12',47.57973,-52.68347
 3550,'3550','Forest Rd Opp #200',47.579669,-52.685378
@@ -745,7 +744,7 @@
 4930,'4930','Commonwealth Ave - Mt Pearl Plz',47.521681,-52.807372
 4935,'4935','Topsail Rd - Lucky''s Restaurant',47.523362,-52.801661
 4940,'4940','Topsail Rd - Forsey Pl',47.523649,-52.79901
-4942,'4942','Topsail Rd - #889 @ Credit Union',47.524192,-52.795065
+4942,'4942','Topsail Rd - #861@ Credit Union',47.524192,-52.795065
 4945,'4945','Topsail Rd - #835 @ Reid Music',47.524022,-52.790961
 4950,'4950','Topsail Rd - Mary Queen Of The World S',47.523548,-52.786349
 4955,'4955','Aberdeen Ave - Swiss Chalet',47.617754,-52.715629
@@ -767,6 +766,7 @@
 5085,'5085','Portugal Cv Rd - Opp Holiday Inn',47.58902,-52.71871
 5090,'5090','Portugal Cv Rd - #137',47.58727,-52.71566
 5091,'5091','Portugal Cv Rd - #130',47.586966,-52.714597
+5092,'5092','Portugal Cv Rd - #170',47.588515,-52.717
 5095,'5095','New Cv Rd - #131',47.58449,-52.71159
 6004,'6004','Great Eastern Ave - #50',47.549005,-52.793698
 6006,'6006','Kelsey Dr - N Atlantic',47.550969,-52.77967
@@ -888,6 +888,7 @@
 6180,'6180','Kenmount Rd @ Mazda',47.552154,-52.775103
 6186,'6186','Bonaventure Ave #95',47.570048,-52.722431
 6189,'6189','Empire Ave - #719',47.543621,-52.760327
+6193,'6193','Airport Height Dr - #72',47.602403,-52.743455
 6194,'6194','Neptune Rd - #49',47.556917,-52.750378
 6195,'6195','Polina Rd - @ Faith Bible Chaple',47.558601,-52.751142
 6196,'6196','Newfoundland Dr - Opp #245',47.595867,-52.691941
