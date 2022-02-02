@@ -65,7 +65,7 @@
 1315,'1315','Topsail Rd - #322',47.537661,-52.740186
 1320,'1320','Topsail Rd - #352',47.536242,-52.742783
 1325,'1325','Topsail Rd By Shoppers Drug Mart',47.535364,-52.745028
-1330,'1330','Charter Ave - Bldg 308',47.584852,-52.696153
+1330,'1330','Langley Rd',47.584507,-52.695711
 1335,'1335','Hamilton Ave - #335',47.549081,-52.728747
 1340,'1340','LeMarchant Rd - #329',47.550661,-52.726303
 1345,'1345','LeMarchant Rd - Opp Smith Stockley',47.553094,-52.724211
@@ -74,7 +74,7 @@
 1360,'1360','LeMarchant Rd - #137',47.559251,-52.718878
 1365,'1365','LeMarchant Rd - #63',47.561831,-52.716706
 1375,'1375','Baird Pl - #35',47.565061,-52.748986
-1380,'1380','Military Rd Opp Bascilica',47.567119,-52.709306
+1380,'1380','Military Rd Opp The Gathering Pl',47.567793,-52.708903
 1385,'1385','Military Rd - #113',47.56948,-52.70749
 1390,'1390','Military Rd - Opp Gov House',47.571197,-52.704537
 1395,'1395','Military Rd - #9',47.571195,-52.702342
@@ -84,9 +84,6 @@
 1415,'1415','The Boulevart Opp CNIB',47.579881,-52.699239
 1420,'1420','Legion Rd - @ Service Canada',47.583794,-52.693156
 1425,'1425','Churchill Ave - Opp (MFRC) Military Family Resource Ctr',47.583419,-52.695819
-1427,'1427','Parsons Rd - #17',47.5845,-52.7044
-1428,'1428','Selfridge Rd By Ross Rd',47.58441,-52.70039
-1430,'1430','Charter Ave - Bldg 307',47.585208,-52.698609
 1440,'1440','Charter Ave Near E Dr',47.586496,-52.691899
 1445,'1445','Charter Ave - Bldg 802',47.588222,-52.689284
 1450,'1450','Charter Ave - Bldg 803',47.588773,-52.686632
@@ -119,7 +116,7 @@
 1580,'1580','Elizabeth Ave - Summerville Plz',47.56492,-52.738388
 1585,'1585','Freshwater Rd - #286',47.563114,-52.741108
 1590,'1590','Freshwater Rd - Mana Bakery',47.561489,-52.745689
-1600,'1600','Avalon Mall - Upper Stop',47.560106,-52.756461
+1600,'1600','Avalon Mall - Upper Stop',47.55921,-52.757214
 1605,'1605','O''Leary Ave - #38 (Body Works)',47.560369,-52.760339
 1610,'1610','Peet St - Cora''s Restaruant',47.558415,-52.760229
 1611,'1611','Kenmount Rd - Cohens',47.55756,-52.75858
@@ -158,8 +155,7 @@
 1770,'1770','Charter Ave Near Janeway Pl',47.588386,-52.689039
 1775,'1775','Charter Ave - Bldg 531',47.586581,-52.691956
 1780,'1780','Charter Ave Opp #99',47.585269,-52.693786
-1785,'1785','Charter Ave Near Roosevelt Ave',47.584917,-52.695837
-1790,'1790','Charter Ave - Near Selfridge Rd',47.585144,-52.69892
+1785,'1785','Langley Rd',47.584299,-52.696293
 1795,'1795','Churchill Ave - (MFRC) Military Family Resource Ctr',47.583258,-52.696684
 1800,'1800','Legion Rd - Side Of Dept Of National Defence',47.583775,-52.693486
 1805,'1805','The Blvd - Regency Towers',47.580614,-52.697972
@@ -169,7 +165,7 @@
 1825,'1825','Military Rd - St Thomas Church',47.571395,-52.702265
 1830,'1830','Military Rd - Gov House',47.571265,-52.705096
 1835,'1835','Military Rd - Bannerman Pk',47.57014,-52.707104
-1840,'1840','Military Rd - Bascilica',47.567058,-52.709925
+1840,'1840','Military Rd - Gathering Pl',47.567812,-52.709087
 1850,'1850','Freshwater Rd @ Parade St',47.564176,-52.715183
 1855,'1855','LeMarchant Rd - #54 (Spairs)',47.562622,-52.716356
 1860,'1860','LeMarchant Rd - #94',47.560969,-52.7177
@@ -275,7 +271,6 @@
 2460,'2460','Brookfield Rd - Opp Mini Mart',47.523937,-52.761729
 2465,'2465','Brookfield Rd - #80 - Baker Flooring',47.521474,-52.765045
 2470,'2470','Grieve St - #6',47.52054,-52.76557
-2475,'2475','Hawker Cr - #28',47.518419,-52.763832
 2480,'2480','Earhart St - #25',47.51798,-52.760787
 2485,'2485','Earhart St - #7',47.519139,-52.760406
 2490,'2490','Perlin St - #37',47.520464,-52.760358
@@ -299,7 +294,7 @@
 2580,'2580','Kelsey Dr @ Messenger Dr',47.559625,-52.78158
 2610,'2610','Kelsey Dr - Walmart',47.555126,-52.782729
 2615,'2615','Kelsey Dr - Sobeys',47.552675,-52.780892
-2620,'2620','Kenmount Rd - Tim Hortons',47.551847,-52.774929
+2620,'2620','Kenmount Rd - Tim Hortons',47.552298,-52.773889
 2622,'2622','Kenmount Rd - Fairfield Inn & Suites',47.553947,-52.770225
 2625,'2625','Pippy Pl - Post Office',47.555781,-52.767033
 2626,'2626','Kenmount Rd - Academy Canada',47.55543,-52.7659
@@ -436,6 +431,9 @@
 3320,'3320','Airport Hts Dr - Opp Ln''s Retirement',47.604972,-52.747552
 3325,'3325','Airport Hts Dr - #73',47.602344,-52.743758
 3330,'3330','Airport Hgts Dr @ Halls Rd',47.60114,-52.74054
+3335,'3335','Branscombe St - #6',47.598691,-52.740629
+3340,'3340','Branscombe St - #60',47.597316,-52.73642
+3345,'3345','Rhodora Pl',47.601297,-52.737581
 3350,'3350','Majors Path @ International Pl',47.60439,-52.735605
 3355,'3355','Majors Path - #113',47.607989,-52.731708
 3370,'3370','Torbay Rd - Penney Ln',47.603964,-52.717753
@@ -484,7 +482,6 @@
 3580,'3580','Old Pennywell Rd - #95',47.556174,-52.749125
 3585,'3585','Portugal Cv Rd - #271',47.593881,-52.725633
 3595,'3595','Portugal Cv Rd - #211',47.591403,-52.723017
-3625,'3625','Ennis Ave - #137',47.592858,-52.706897
 3630,'3630','Ennis Ave - #99 Near S',47.590111,-52.704453
 3635,'3635','Ennis Ave - #57',47.587806,-52.704181
 3640,'3640','Ennis Ave - #23',47.585481,-52.704656
@@ -744,7 +741,7 @@
 4930,'4930','Commonwealth Ave - Mt Pearl Plz',47.521681,-52.807372
 4935,'4935','Topsail Rd - Lucky''s Restaurant',47.523362,-52.801661
 4940,'4940','Topsail Rd - Forsey Pl',47.523649,-52.79901
-4942,'4942','Topsail Rd - #861@ Credit Union',47.524192,-52.795065
+4942,'4942','Topsail Rd - #889 @ Credit Union',47.524192,-52.795065
 4945,'4945','Topsail Rd - #835 @ Reid Music',47.524022,-52.790961
 4950,'4950','Topsail Rd - Mary Queen Of The World S',47.523548,-52.786349
 4955,'4955','Aberdeen Ave - Swiss Chalet',47.617754,-52.715629
@@ -785,7 +782,7 @@
 6055,'6055','Petite Forte Dr - #27',47.551306,-52.794478
 6057,'6057','Kiwanis St @ Hamlet St',47.549413,-52.785267
 6060,'6060','Kiwanis St (Pets Unlimited)',47.550996,-52.781214
-6062,'6062','Hebron Way - Harvey''s Restaurant',47.61718,-52.724323
+6062,'6062','Hebron Way - Harvey''s Restaurant',47.617524,-52.724521
 6063,'6063','Torbay Rd #464 @ Dulux Paints',47.607461,-52.720624
 6065,'6065','Harvey Rd - Paramount Bldg',47.565532,-52.711626
 6066,'6066','The Blvd - Opp Dept Of National Defence',47.581536,-52.69466
@@ -884,11 +881,10 @@
 6175,'6175','Kenmount Rd - #351 Epilepsy Bld',47.549014,-52.781294
 6177,'6177','Main Rd @ Ruby Line',47.487516,-52.768123
 6178,'6178','Back Line - #400',47.461435,-52.783837
-6179,'6179','Hebron Way - Canadian Tire',47.616502,-52.726372
+6179,'6179','Hebron Way - Canadian Tire',47.617046,-52.726767
 6180,'6180','Kenmount Rd @ Mazda',47.552154,-52.775103
 6186,'6186','Bonaventure Ave #95',47.570048,-52.722431
 6189,'6189','Empire Ave - #719',47.543621,-52.760327
-6193,'6193','Airport Height Dr - #72',47.602403,-52.743455
 6194,'6194','Neptune Rd - #49',47.556917,-52.750378
 6195,'6195','Polina Rd - @ Faith Bible Chaple',47.558601,-52.751142
 6196,'6196','Newfoundland Dr - Opp #245',47.595867,-52.691941
@@ -897,7 +893,8 @@
 6200,'6200','Old Pennywell Rd @ Pennyhill Condominiums',47.555331,-52.747159
 6201,'6201','Old Pennywell Rd - Opp Pennyhill Condominiums',47.55543,-52.747133
 6202,'6202','Bay Bulls Rd - #262',47.503472,-52.760872
-6203,'6203','Hebron Way - #100 (Service Canada)',47.615607,-52.728685
+6203,'6203','Hebron Way - #100 (Service Canada)',47.615988,-52.729358
 6204,'6204','Charter Ave - #109',47.585229,-52.69336
 6205,'6205','Danny Dr - Marshalls',47.508465,-52.841773
 6206,'6206','Danny Dr - @ Costco Gas Pumps',47.502283,-52.839172
+6209,'6209','Kenmount Rd - #297',47.550923,-52.776965
