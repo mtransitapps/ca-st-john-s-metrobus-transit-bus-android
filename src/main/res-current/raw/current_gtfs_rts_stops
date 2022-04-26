@@ -84,7 +84,7 @@
 1415,'1415','The Boulevart Opp CNIB',47.579881,-52.699239
 1420,'1420','Legion Rd - @ Service Canada',47.583794,-52.693156
 1425,'1425','Churchill Ave - Opp (MFRC) Military Family Resource Ctr',47.583419,-52.695819
-1440,'1440','Charter Ave Near E Dr',47.586496,-52.691899
+1440,'1440','Charter Ave - #77',47.586496,-52.691899
 1445,'1445','Charter Ave - Bldg 802',47.588222,-52.689284
 1450,'1450','Charter Ave - Bldg 803',47.588773,-52.686632
 1455,'1455','E White Hls Rd Near RCMP',47.591095,-52.686041
@@ -110,17 +110,17 @@
 1550,'1550','Elizabeth Ave - St Patrick''s Home',47.578175,-52.720403
 1555,'1555','Elizabeth Ave Opp Churchill Sq',47.575142,-52.723974
 1560,'1560','Elizabeth Ave - Burton''s Pond',47.573044,-52.726598
-1565,'1565','Elizabeth Ave - #147',47.571792,-52.728838
+1565,'1565','Elizabeth Ave - Opp 225',47.571792,-52.728838
 1570,'1570','Elizabeth Ave - Front Of MUN',47.570761,-52.730911
 1575,'1575','Elizabeth Ave Opp Keegan Court',47.56707,-52.735998
 1580,'1580','Elizabeth Ave - Summerville Plz',47.56492,-52.738388
 1585,'1585','Freshwater Rd - #286',47.563114,-52.741108
 1590,'1590','Freshwater Rd - Mana Bakery',47.561489,-52.745689
-1600,'1600','Avalon Mall - Upper Stop',47.55921,-52.757214
+1600,'1600','Avalon Mall - Upper Stop',47.55998,-52.757503
 1605,'1605','O''Leary Ave - #38 (Body Works)',47.560369,-52.760339
 1610,'1610','Peet St - Cora''s Restaruant',47.558415,-52.760229
 1611,'1611','Kenmount Rd - Cohens',47.55756,-52.75858
-1613,'1613','Kenmount Rd - Ornamental Concrete',47.551502,-52.777017
+1613,'1613','Kenmount Rd - Ornamental Concrete',47.551276,-52.776846
 1614,'1614','Kenmount Rd - Ramada',47.555139,-52.76738
 1615,'1615','Kenmount Rd - Wendys',47.559352,-52.750975
 1620,'1620','Freshwater Rd - #341 Credit Union',47.561019,-52.746348
@@ -291,7 +291,7 @@
 2565,'2565','Thorburn Rd - Maries Mini Mart',47.564289,-52.76205
 2570,'2570','Thorburn Rd - N Of Austin St',47.564647,-52.766325
 2575,'2575','Goldstone St - #22 (Constantines)',47.56425,-52.771422
-2580,'2580','Kelsey Dr @ Messenger Dr',47.559625,-52.78158
+2580,'2580','Kelsey Dr - #125 Pwc BLd',47.558737,-52.781581
 2610,'2610','Kelsey Dr - Walmart',47.555126,-52.782729
 2615,'2615','Kelsey Dr - Sobeys',47.552675,-52.780892
 2620,'2620','Kenmount Rd - Tim Hortons',47.552298,-52.773889
@@ -422,7 +422,7 @@
 3245,'3245','Newfoundland Dr - #493',47.59744,-52.717186
 3250,'3250','Newfoundland Dr - #455',47.598808,-52.712164
 3255,'3255','Majors Path - #26',47.610862,-52.724339
-3260,'3260','Majors Path - Eastern Health Bldg',47.61007,-52.725169
+3260,'3260','Majors Path - Eastern Health Bldg',47.610154,-52.725164
 3265,'3265','Majors Path - #146',47.607769,-52.732194
 3270,'3270','Majors Path - #216',47.604408,-52.735844
 3295,'3295','Viscount St - #71',47.610236,-52.751908
@@ -431,9 +431,6 @@
 3320,'3320','Airport Hts Dr - Opp Ln''s Retirement',47.604972,-52.747552
 3325,'3325','Airport Hts Dr - #73',47.602344,-52.743758
 3330,'3330','Airport Hgts Dr @ Halls Rd',47.60114,-52.74054
-3335,'3335','Branscombe St - #6',47.598691,-52.740629
-3340,'3340','Branscombe St - #60',47.597316,-52.73642
-3345,'3345','Rhodora Pl',47.601297,-52.737581
 3350,'3350','Majors Path @ International Pl',47.60439,-52.735605
 3355,'3355','Majors Path - #113',47.607989,-52.731708
 3370,'3370','Torbay Rd - Penney Ln',47.603964,-52.717753
@@ -782,18 +779,19 @@
 6055,'6055','Petite Forte Dr - #27',47.551306,-52.794478
 6057,'6057','Kiwanis St @ Hamlet St',47.549413,-52.785267
 6060,'6060','Kiwanis St (Pets Unlimited)',47.550996,-52.781214
-6062,'6062','Hebron Way - Harvey''s Restaurant',47.617524,-52.724521
+6062,'6062','Hebron Way - #20 Exxon Bld',47.617298,-52.724415
 6063,'6063','Torbay Rd #464 @ Dulux Paints',47.607461,-52.720624
 6065,'6065','Harvey Rd - Paramount Bldg',47.565532,-52.711626
 6066,'6066','The Blvd - Opp Dept Of National Defence',47.581536,-52.69466
 6067,'6067','The Blvd - Front Of Dept Of National Defence',47.581816,-52.69462
-6069,'6069','Paradise Double Ice Complex',47.523625,-52.870379
+6069,'6069','Paradise Double Ice Complex',47.523718,-52.870487
 6079,'6079','Logy Bay Rd - Breen''s Deli',47.600253,-52.695578
 6080,'6080','Logy Bay Rd - Opp Cambridge Ave',47.601882,-52.69399
 6081,'6081','Logy Bay Rd - Opp Marconi Pl',47.603772,-52.691847
 6082,'6082','Logy Bay Rd - Next To Ntv',47.607392,-52.689608
 6083,'6083','Robin Hood Bay Rd - Afonso Diving',47.609981,-52.688031
 6085,'6085','E White Hls Rd - Hanlon Connection',47.607392,-52.67875
+6086,'6086','E White Hls Rd - PF Collins',47.602713,-52.682128
 6087,'6087','Harding Rd - Academy Canada',47.600439,-52.691034
 6089,'6089','Portugal Cv Rd - Holliday Inn',47.589096,-52.718232
 6090,'6090','Sunvalley Dr #72',47.536134,-52.862387
@@ -881,7 +879,7 @@
 6175,'6175','Kenmount Rd - #351 Epilepsy Bld',47.549014,-52.781294
 6177,'6177','Main Rd @ Ruby Line',47.487516,-52.768123
 6178,'6178','Back Line - #400',47.461435,-52.783837
-6179,'6179','Hebron Way - Canadian Tire',47.617046,-52.726767
+6179,'6179','Hebron Way - Canadian Tire',47.616457,-52.727257
 6180,'6180','Kenmount Rd @ Mazda',47.552154,-52.775103
 6186,'6186','Bonaventure Ave #95',47.570048,-52.722431
 6189,'6189','Empire Ave - #719',47.543621,-52.760327
@@ -893,8 +891,8 @@
 6200,'6200','Old Pennywell Rd @ Pennyhill Condominiums',47.555331,-52.747159
 6201,'6201','Old Pennywell Rd - Opp Pennyhill Condominiums',47.55543,-52.747133
 6202,'6202','Bay Bulls Rd - #262',47.503472,-52.760872
-6203,'6203','Hebron Way - #100 (Service Canada)',47.615988,-52.729358
+6203,'6203','Hebron Way - #100 (Service Canada)',47.615064,-52.72965
 6204,'6204','Charter Ave - #109',47.585229,-52.69336
-6205,'6205','Danny Dr - Marshalls',47.508465,-52.841773
-6206,'6206','Danny Dr - @ Costco Gas Pumps',47.502283,-52.839172
+6205,'6205','Danny Dr - Marshalls',47.508648,-52.83138
+6206,'6206','Danny Dr - @ Costco Gas Pumps',47.506819,-52.832553
 6209,'6209','Kenmount Rd - #297',47.550923,-52.776965
