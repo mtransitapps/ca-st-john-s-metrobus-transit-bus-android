@@ -185,8 +185,14 @@
 1930,'1930','Water St - #689 (Campbell''s Ships)',47.549939,-52.718256
 1935,'1935','Water St Opp Patrick St',47.552383,-52.715428
 1940,'1940','Water St - #495 (Railway Museum)',47.554794,-52.713659
+1945,'1945','Water St - #351 Flight Ctr',47.560153,-52.710987
+1950,'1950','Water St - @ Bishops Cv',47.561092,-52.71039
+1955,'1955','Water St - #285 (Bowring Ctr)',47.562208,-52.70919
+1960,'1960','Water St - #215 (Atlantic Pl)',47.563103,-52.70796
+1965,'1965','Water St - #179 (Gallery Shoes)',47.56455,-52.706545
+1970,'1970','Water St - #153',47.565447,-52.7056
 1975,'1975','Water St - Harbourside Pk',47.567325,-52.70341
-1980,'1980','Duckworth St - #115 Portobellos',47.569542,-52.701608
+1980,'1980','Duckworth St - #115',47.569542,-52.701608
 1985,'1985','Cavendish Sq - Sheraton Hotel',47.570833,-52.700667
 1990,'1990','New Cv Rd - Max',47.577961,-52.70609
 1991,'1991','New Cv Rd - Leon''s',47.584075,-52.710747
@@ -226,6 +232,10 @@
 2155,'2155','New Cv Rd - #35',47.577811,-52.705914
 2160,'2160','Duckworth St - #104 (Caines Store)',47.569939,-52.701347
 2165,'2165','Water St - Sir Humphrey Gilbert Bldg',47.567906,-52.702911
+2170,'2170','Water St - W Of TD Bldg',47.565922,-52.705267
+2175,'2175','Water St - #196 (Courthouse)',47.564365,-52.706965
+2180,'2180','Water St - #240 (Credit Union)',47.56299,-52.70834
+2185,'2185','Water St - #294 (Yellowbelly Brewery)',47.56205,-52.709764
 2190,'2190','Water St - Convention Ctr',47.559411,-52.711767
 2195,'2195','Water St - #488 @ Apothecary Hall',47.555954,-52.713051
 2200,'2200','Water St - #524 - Powerlite Electric',47.554122,-52.714322
@@ -247,6 +257,7 @@
 2345,'2345','Waterford Bridge Rd - #227',47.531558,-52.739883
 2350,'2350','Waterford Bridge Rd - #203',47.53346,-52.738043
 2355,'2355','Waterford Bridge Rd - #185',47.535306,-52.736192
+2360,'2360','Waterford Bridge Rd - #169',47.536958,-52.7347
 2410,'2410','Waterford Bridge Rd - #168',47.536467,-52.735248
 2415,'2415','Waterford Bridge Rd - #176',47.535079,-52.736656
 2420,'2420','Waterford Bridge Rd - Beaconsfield',47.532951,-52.738803
@@ -260,7 +271,6 @@
 2460,'2460','Brookfield Rd - Opp Mini Mart',47.523937,-52.761729
 2465,'2465','Brookfield Rd - #80 - Baker Flooring',47.521474,-52.765045
 2470,'2470','Grieve St - #6',47.52054,-52.76557
-2475,'2475','Hawker Cr - #28',47.518419,-52.763832
 2480,'2480','Earhart St - #25',47.51798,-52.760787
 2485,'2485','Earhart St - #7',47.519139,-52.760406
 2490,'2490','Perlin St - #37',47.520464,-52.760358
@@ -421,6 +431,9 @@
 3320,'3320','Airport Hts Dr - Opp Ln''s Retirement',47.604972,-52.747552
 3325,'3325','Airport Hts Dr - #73',47.602344,-52.743758
 3330,'3330','Airport Hgts Dr @ Halls Rd',47.60114,-52.74054
+3335,'3335','Branscombe St - #6',47.598691,-52.740629
+3340,'3340','Branscombe St - #60',47.597316,-52.73642
+3345,'3345','Rhodora Pl',47.601297,-52.737581
 3350,'3350','Majors Path @ International Pl',47.60439,-52.735605
 3355,'3355','Majors Path - #113',47.607989,-52.731708
 3370,'3370','Torbay Rd - Penney Ln',47.603964,-52.717753
@@ -873,7 +886,6 @@
 6180,'6180','Kenmount Rd @ Mazda',47.552154,-52.775103
 6186,'6186','Bonaventure Ave #95',47.570048,-52.722431
 6189,'6189','Empire Ave - #719',47.543621,-52.760327
-6193,'6193','Airport Height Dr - #72',47.602403,-52.743455
 6194,'6194','Neptune Rd - #49',47.556917,-52.750378
 6195,'6195','Polina Rd - @ Faith Bible Chaple',47.558601,-52.751142
 6196,'6196','Newfoundland Dr - Opp #245',47.595867,-52.691941
@@ -886,11 +898,6 @@
 6204,'6204','Charter Ave - #109',47.585229,-52.69336
 6205,'6205','Danny Dr - Marshalls',47.508648,-52.83138
 6206,'6206','Danny Dr - @ Costco Gas Pumps',47.506819,-52.832553
-6207,'6207','Topsail Rd @ Waterford Vly High',47.532988,-52.750176
-6208,'6208','Castors Dr - Supreme Auto',47.526103,-52.816556
-6210,'6210','Harbour Dr - @ Gahan House',47.560668,-52.709547
-6211,'6211','Harbour Dr - Opp Ayre''s Cv',47.562677,-52.707208
-6212,'6212','Harbour Dr - Opp Clift''s Baird''s Cv',47.563988,-52.705833
-6213,'6213','Harbour Dr - @ Clift''s Baird''s Cv',47.564097,-52.705846
-6214,'6214','Harbour Dr - @ Ayre''s Cv',47.562695,-52.707274
-6215,'6215','Harbour Dr - @ Murry Premises',47.561347,-52.709045
+6209,'6209','Kenmount Rd - #297',47.550923,-52.776965
+6216,'6216','Kenmount Rd @ Metro Self Storage',47.536677,-52.817534
+6217,'6217','Kenmount Rd @ Opp Metro Self Storage',47.536541,-52.81661
