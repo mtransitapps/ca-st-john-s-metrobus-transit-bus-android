@@ -185,12 +185,6 @@
 1930,'1930','Water St - #689 (Campbell''s Ships)',47.549939,-52.718256,0
 1935,'1935','Water St Opp Patrick St',47.552383,-52.715428,0
 1940,'1940','Water St - #495 (Railway Museum)',47.554794,-52.713659,0
-1945,'1945','Water St - #351 Flight Ctr',47.560153,-52.710987,0
-1950,'1950','Water St - @ Bishops Cv',47.561092,-52.71039,0
-1955,'1955','Water St - #285 (Bowring Ctr)',47.562208,-52.70919,0
-1960,'1960','Water St - #215 (Atlantic Pl)',47.563103,-52.70796,0
-1965,'1965','Water St - #179 (Gallery Shoes)',47.56455,-52.706545,0
-1970,'1970','Water St - #153',47.565447,-52.7056,0
 1975,'1975','Water St - Harbourside Pk',47.567325,-52.70341,0
 1980,'1980','Duckworth St - #115',47.569542,-52.701608,0
 1985,'1985','Cavendish Sq - Sheraton Hotel',47.570833,-52.700667,0
@@ -897,8 +891,16 @@
 6206,'6206','Danny Dr - @ Costco Gas Pumps',47.506819,-52.832553,0
 6207,'6207','Topsail Rd @ Waterford Vly High',47.532988,-52.750176,0
 6208,'6208','Castors Dr - Supreme Auto',47.526103,-52.816556,0
+6210,'6210','Harbour Dr - @ Gahan House',47.560668,-52.709547,0
+6211,'6211','Harbour Dr - Opp Ayre''s Cv',47.562677,-52.707208,0
+6212,'6212','Harbour Dr - Opp Clift''s Baird''s Cv',47.563988,-52.705833,0
+6213,'6213','Harbour Dr - @ Clift''s Baird''s Cv',47.564097,-52.705846,0
+6214,'6214','Harbour Dr - @ Ayre''s Cv',47.562695,-52.707274,0
+6215,'6215','Harbour Dr - @ Murry Premises',47.561347,-52.709045,0
 6216,'6216','Kenmount Rd @ Metro Self Storage',47.536677,-52.817534,0
 6217,'6217','Kenmount Rd @ Opp Metro Self Storage',47.536541,-52.81661,0
+6218,'6218','Kenmount Rd #1103',47.5252,-52.852757,0
+6219,'6219','Kenmount Rd #1108',47.525254,-52.853008,0
 6220,'6220','Lester St - #36',47.525318,-52.766753,0
 6221,'6221','Kenmount Rd - Opp The Crossroads Motel',47.529323,-52.836505,0
 6222,'6222','Kenmount Rd - The Crossroads Motel',47.528545,-52.836954,0
