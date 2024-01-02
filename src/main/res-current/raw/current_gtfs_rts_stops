@@ -161,7 +161,7 @@
 1805,'1805','The Blvd - Regency Towers',47.580614,-52.697972,0,1515116
 1810,'1810','The Blvd - Opp #32',47.57855,-52.701597,0,1515142
 1815,'1815','Kings Bridge Rd Opp Dominion',47.576047,-52.703239,0,1515147
-1820,'1820','Kings Bridge Rd - Family Court',47.57202,-52.70194,0,1515173
+1820,'1820','Kings Bridge Rd - Family Court',47.571718,-52.70186,0,1515173
 1825,'1825','Military Rd - St Thomas Church',47.571395,-52.702265,0,1515178
 1830,'1830','Military Rd - Gov House',47.571265,-52.705096,0,1515204
 1835,'1835','Military Rd - Bannerman Pk',47.57014,-52.707104,0,1515209
@@ -252,7 +252,7 @@
 2320,'2320','Waterford Bridge Rd - Bowering Pk',47.525642,-52.756453,0,1540159
 2325,'2325','Waterford Bridge Rd - #309',47.526978,-52.752736,0,1540164
 2330,'2330','Waterford Bridge Rd Opp Hosp',47.527894,-52.749629,0,1540190
-2335,'2335','Waterford Bridge Rd - Bowering Pk',47.528678,-52.746744,0,1540195
+2335,'2335','Waterford Bridge Rd - Bowering Pk (Duck Pond)',47.528678,-52.746744,0,1540195
 2340,'2340','Waterford Bridge Rd Opp #280',47.52943,-52.74329,0,1540221
 2345,'2345','Waterford Bridge Rd - #227',47.531558,-52.739883,0,1540226
 2350,'2350','Waterford Bridge Rd - #203',47.53346,-52.738043,0,1540252
@@ -897,9 +897,11 @@
 6206,'6206','Danny Dr - @ Costco Gas Pumps',47.506819,-52.832553,0,1658306
 6207,'6207','Topsail Rd @ Waterford Vly High',47.532988,-52.750176,0,1658307
 6208,'6208','Castors Dr - Supreme Auto',47.526103,-52.816556,0,1658308
+6209,'6209','Kenmount Rd - #297',47.550923,-52.776965,0,1658309
 6216,'6216','Kenmount Rd @ Metro Self Storage',47.536677,-52.817534,0,1658337
 6217,'6217','Kenmount Rd @ Opp Metro Self Storage',47.536541,-52.81661,0,1658338
 6220,'6220','Lester St - #36',47.525318,-52.766753,0,1658362
 6221,'6221','Kenmount Rd - Opp The Crossroads Motel',47.529323,-52.836505,0,1658363
 6222,'6222','Kenmount Rd - The Crossroads Motel',47.528545,-52.836954,0,1658364
+6223,'6223','Water St - @ Oceanex',47.558588,-52.711676,0,1658365
 6224,'6224','E White Hls Rd - S Of RHB Landfill',47.6053,-52.678939,0,1658366
