@@ -23,6 +23,6 @@
         <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="twitter_screen_names_noteworthy">
-        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
 </resources>

@@ -17,8 +17,8 @@
         <item>https://www.metrobus.com/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds">
-        <item>https://www.metrobus.com/rss/rss_service.xml</item>
-        <item>https://www.metrobus.com/rss/rss_news.xml</item>
+        <!-- <item>https://www.metrobus.com/rss/rss_service.xml</item> -->
+        <!-- <item>https://www.metrobus.com/rss/rss_news.xml</item> -->
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
