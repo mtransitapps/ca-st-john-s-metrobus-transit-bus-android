@@ -134,8 +134,8 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 		case 24: return "363435";
 		case 25: return "3E4095";
 		case 26: return "363435";
-		// case 27: return null; // TO DO
 		case 30: return "EECE20";
+		case 33: return "F49F32";
 		// @formatter:on
 		default:
 			throw new MTLog.Fatal("Unexpected route color %s!", gRoute);
