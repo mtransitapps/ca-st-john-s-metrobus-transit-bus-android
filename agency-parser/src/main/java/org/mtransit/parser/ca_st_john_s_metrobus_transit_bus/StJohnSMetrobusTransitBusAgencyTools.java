@@ -32,11 +32,6 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -68,7 +63,7 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String cleanRouteLongName(@NotNull String routeLongName) {
 		routeLongName = CleanUtils.cleanSlashes(routeLongName);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -95,7 +90,7 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 		return super.fixColor(color);
 	}
 
-	@SuppressWarnings("DuplicateBranchesInSwitch")
+	@SuppressWarnings({"DuplicateBranchesInSwitch", "SpellCheckingInspection"})
 	@Nullable
 	@Override
 	public String provideMissingRouteColor(@NotNull GRoute gRoute) {
@@ -134,11 +129,12 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 		case 24: return "363435";
 		case 25: return "3E4095";
 		case 26: return "363435";
+		case 29: return "D88D27";
 		case 30: return "EECE20";
 		case 33: return "F49F32";
 		// @formatter:on
 		default:
-			throw new MTLog.Fatal("Unexpected route color %s!", gRoute);
+			throw new MTLog.Fatal("Unexpected route color %s!", gRoute.toStringPlus());
 		}
 	}
 
@@ -162,10 +158,11 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = BAY_ROAD_.matcher(tripHeadsign).replaceAll(BAY_ROAD_REPLACEMENT); // after
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
+		//noinspection SpellCheckingInspection
 		return new String[]{
 				"AL", "CBC", "CNIB", "EMCO", "HMP", "HSC", "JB", "JJ", "MFRC", "MUN", "MVR", "NL", "RDM", "RCMP", "RNC", "YMCA",
 		};
@@ -189,12 +186,12 @@ public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName); // before
 		gStopName = BAY_ROAD_.matcher(gStopName).replaceAll(BAY_ROAD_REPLACEMENT); // after
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = gStop.getStopId();
 		if (CharUtils.isDigitsOnly(stopId)) {
 			return Integer.parseInt(stopId);
