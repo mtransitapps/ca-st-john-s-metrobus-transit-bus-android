@@ -1,5 +1,5 @@
 1000,'1000','Vlg Shopping Ctr',47.53379,-52.75012,0,1507423
-1010,'1010','Topsail Rd @ Hazelwood Elementary',47.53504,-52.74517,0,1507454
+1010,'1010','Topsail Rd @ Hazelwood Elem',47.53504,-52.74517,0,1507454
 1015,'1015','Topsail Rd After Hazelwood Cres',47.53585,-52.74329,0,1507459
 1020,'1020','Topsail Rd Before Rd De Luxe',47.53749,-52.74013,0,1507485
 1025,'1025','Cornwall Ave After Old Topsail Rd',47.53954,-52.73792,0,1507490
@@ -32,8 +32,8 @@
 1160,'1160','College Of The N Atlantic',47.58729,-52.72061,0,1508570
 1165,'1165','Portugal Cv Rd After Prince Philip Dr',47.59064,-52.72122,0,1508575
 1170,'1170','Portugal Cv Rd @ Chancellor Pk',47.59389,-52.72534,0,1508601
-1175,'1175','Higgins Ln After Portugal Cv Rd',47.59475,-52.72762,0,1508606
-1180,'1180','Higgins Ln After Pinsent Pl',47.59323,-52.72851,0,1508632
+1175,'1175','Higgins Line After Portugal Cv Rd',47.59475,-52.72762,0,1508606
+1180,'1180','Higgins Line After Pinsent Pl',47.59323,-52.72851,0,1508632
 1185,'1185','Rdg Rd Opp YMCA',47.58998,-52.73028,0,1508637
 1190,'1190','Rdg Rd Before Gloucester St',47.58837,-52.73415,0,1508663
 1195,'1195','Marine Institute',47.58711,-52.73551,0,1508668
@@ -78,7 +78,7 @@
 1385,'1385','Military Rd After Kings Rd',47.56948,-52.70749,0,1510559
 1390,'1390','Military Rd Before Cochrane St',47.57120,-52.70454,0,1510585
 1395,'1395','Military Rd Opp St Thomas Church',47.57120,-52.70234,0,1510590
-1400,'1400','Kings Bridge Rd @ Kings Bridge Court',47.57382,-52.70248,0,1511267
+1400,'1400','Kings Bridge Rd @ Kings Bridge Ct',47.57382,-52.70248,0,1511267
 1405,'1405','Kings Bridge Rd @ Lk Ave',47.57578,-52.70293,0,1511272
 1410,'1410','The Blvd Before Carnell Dr',47.57842,-52.70172,0,1511298
 1415,'1415','The Blvd Opp CNIB',47.57988,-52.69924,0,1511303
@@ -156,7 +156,7 @@
 1780,'1780','Charter Ave Before Placentia Pl',47.58527,-52.69379,0,1514398
 1785,'1785','Langley Rd',47.58430,-52.69629,0,1514403
 1795,'1795','Churchill Ave Before Legion Rd',47.58326,-52.69668,0,1514434
-1800,'1800','Legion Rd Near Dnd',47.58378,-52.69349,0,1515111
+1800,'1800','Legion Rd',47.58378,-52.69349,0,1515111
 1805,'1805','The Blvd After Pleasantville Ave',47.58061,-52.69797,0,1515116
 1810,'1810','The Blvd Before Kennas Hl',47.57855,-52.70160,0,1515142
 1815,'1815','Kings Bridge Rd @ Winter Ave',47.57605,-52.70324,0,1515147
@@ -274,7 +274,7 @@
 2550,'2550','Cowan Ave Before Topsail Rd',47.53104,-52.75851,0,1542174
 2555,'2555','Topsail Rd Before Holbrook Ave',47.53097,-52.75580,0,1542179
 2560,'2560','Thorburn Rd Opp Picea Ln',47.56358,-52.75913,0,1542205
-2565,'2565','Thorburn Rd Before Mt Scio',47.56429,-52.76205,0,1542210
+2565,'2565','Thorburn Rd Before Mt Scio Rd',47.56429,-52.76205,0,1542210
 2570,'2570','Thorburn Rd After Bambrick St',47.56465,-52.76633,0,1542236
 2575,'2575','Goldstone St Opp Sorrel Dr',47.56425,-52.77142,0,1542241
 2580,'2580','Kelsey Dr After Messenger Dr',47.55874,-52.78158,0,1542267
@@ -648,7 +648,7 @@
 4630,'4630','Munden Dr Before Old Placentia Rd',47.50540,-52.81176,0,1602655
 4640,'4640','Old Placentia Rd Before Smallwood Dr',47.50571,-52.81405,0,1602686
 4645,'4645','Smallwood Dr Near Old Placentia Rd',47.50730,-52.81439,0,1602691
-4650,'4650','Jeffers Dr @ Jennfers Pl',47.50877,-52.81112,0,1602717
+4650,'4650','Jeffers Dr @ Jeffers Pl',47.50877,-52.81112,0,1602717
 4655,'4655','Jeffers Dr @ Badcock Pl',47.50995,-52.80612,0,1602722
 4660,'4660','Jeffers Dr @ Woodford Pl',47.51198,-52.80493,0,1602748
 4665,'4665','Smallwood Dr Before Commonwealth Ave',47.51354,-52.80424,0,1602753
@@ -723,10 +723,10 @@
 4955,'4955','Aberdeen Ave @ Stavanger Dr',47.61775,-52.71563,0,1605605
 4956,'4956','Whiterose Dr Near Aberdeen Ave',47.61969,-52.71971,0,1605606
 4957,'4957','Whiterose Dr Before Torbay Rd',47.61776,-52.72213,0,1605607
-4960,'4960','Clinch Cres @ Faculty Of Med',47.57301,-52.74056,0,1605631
+4960,'4960','Clinch Cres @ Faculty Of Medicine',47.57301,-52.74056,0,1605631
 4975,'4975','Main Rd Before Doolings Line',47.47373,-52.76955,0,1605667
 4980,'4980','Clinch Cres Before Prince Philip Dr',47.57154,-52.73818,0,1605693
-4982,'4982','Clinch Cres Opp Faculty Of Med',47.57276,-52.73970,0,1605695
+4982,'4982','Clinch Cres Opp Faculty Of Medicine',47.57276,-52.73970,0,1605695
 4985,'4985','Clinch Cres Opp Janeway',47.57235,-52.74450,0,1605698
 5020,'5020','Larkhall St Opp Donegal Pl',47.56326,-52.75504,0,1626649
 5025,'5025','Harvey Rd @ Longs Hl',47.56445,-52.71368,0,1626654
@@ -799,7 +799,7 @@
 6115,'6115','Carlisle Dr Before Stonehaven Pl',47.53569,-52.83692,0,1657375
 6116,'6116','Carlisle Dr Before Dungarvan St',47.53795,-52.83660,0,1657376
 6117,'6117','Carlisle Dr @ Horncastle Dr',47.54018,-52.83457,0,1657377
-6118,'6118','Brougham Dr Opp Argan Cres',47.54128,-52.83287,0,1657378
+6118,'6118','Brougham Dr Opp Aragon Cres',47.54128,-52.83287,0,1657378
 6119,'6119','Brougham Dr Opp Superior St',47.54014,-52.82934,0,1657379
 6120,'6120','Brougham Dr @ Ellesmere Ave',47.53834,-52.82780,0,1657401
 6121,'6121','Brougham Dr Civic 98',47.53698,-52.82705,0,1657402
@@ -828,7 +828,7 @@
 6144,'6144','Kenmount Rd Before Brougham Dr',47.53497,-52.82527,0,1657467
 6145,'6145','Kenmount Rd @ Terra Nova Motors',47.54101,-52.80107,0,1657468
 6148,'6148','Burnaby St Before Tiverton St',47.52644,-52.86934,0,1657471
-6149,'6149','Tipperary St Near Tiverton St',47.52443,-52.86859,0,1657472
+6149,'6149','Tipperary St',47.52443,-52.86859,0,1657472
 6150,'6150','Kenmount Rd Before Pollard Ave',47.52012,-52.85875,0,1657494
 6151,'6151','Kenmount Rd Civic 1250',47.51786,-52.86367,0,1657495
 6152,'6152','Kenmount Rd Before McNamara Dr',47.51563,-52.86794,0,1657496
