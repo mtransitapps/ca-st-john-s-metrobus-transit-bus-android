@@ -120,7 +120,7 @@
 1605,'1605','OLeary Ave Before Peet St',47.56037,-52.76034,0,1513194
 1610,'1610','Peet St',47.55842,-52.76023,0,1513220
 1611,'1611','Kenmount Rd After Peet St',47.55756,-52.75858,0,1513221
-1613,'1613','Kenmount Rd Before Kelsey Dr',47.55128,-52.77685,0,1513223
+1613,'1613','Kenmount Rd Before Kelsey Dr',47.55104,-52.77731,0,1513223
 1614,'1614','Kenmount Rd After Pippy Pl',47.55514,-52.76738,0,1513224
 1615,'1615','Kenmount Rd After Polina Rd',47.55935,-52.75098,0,1513225
 1620,'1620','Freshwater Rd Before Crosbie Rd',47.56102,-52.74635,0,1513251
@@ -751,6 +751,7 @@
 6013,'6013','Great Eastern Ave Opp Pluto St',47.54696,-52.79928,0,1656412
 6014,'6014','Great Eastern Ave Before Kenmount Rd',47.54296,-52.80030,0,1656413
 6015,'6015','Kenmount Rd @ Honda',47.54346,-52.79536,0,1656414
+6027,'6027','Signal Hl @ Cabot Tower',47.57055,-52.68094,0,1656447
 6052,'6052','Ladysmith Dr @ Maurice Putt Cres',47.55072,-52.78921,0,1656535
 6053,'6053','Ladysmith Dr After Ophelia Pl',47.55286,-52.79039,0,1656536
 6054,'6054','Ladysmith Dr Opp Petite Forte Dr',47.55517,-52.79491,0,1656537
@@ -856,7 +857,7 @@
 6177,'6177','Main Rd After Ruby Line',47.48752,-52.76812,0,1657563
 6178,'6178','Back Line After Doyles Rd',47.46144,-52.78384,0,1657564
 6179,'6179','Hebron Way Near Canadian Tire',47.61646,-52.72726,0,1657565
-6180,'6180','Kenmount Rd @ Mazda',47.55215,-52.77510,0,1657587
+6180,'6180','Kenmount Rd @ Mazda',47.55318,-52.77258,0,1657587
 6186,'6186','Bonaventure Ave Before Empire Ave',47.57005,-52.72243,0,1657593
 6189,'6189','Empire Ave After Welland St',47.54362,-52.76033,0,1657596
 6193,'6193','Airport Hts Dr Before Argus Pl',47.60240,-52.74346,0,1657621
@@ -910,4 +911,4 @@
 6250,'6250','Hoyles Ave After Little St',47.56582,-52.73190,0,1658455
 6251,'6251','Anderson Ave Before Elizabeth Ave',47.56547,-52.73625,0,1658456
 6252,'6252','Mt Scio Rd @ Rainbow Riders',47.57760,-52.74542,0,1658457
-6253,'6253','Masonic Pk Court E',47.53534,-52.81098,0,1658458
+7010,'7010','Signal Hl Interpretation Ctr',47.57063,-52.68695,0,1686200
