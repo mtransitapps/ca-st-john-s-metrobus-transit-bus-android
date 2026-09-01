@@ -28,7 +28,7 @@
 1140,'1140','University Ave Before CBC',47.56917,-52.74024,0,1508508
 1145,'1145','Clinch Cres Near Arctic Ave',47.57184,-52.73818,0,1508513
 1150,'1150','MUN Ctr',47.57337,-52.73568,0,1508539
-1155,'1155','Confed Bldg',47.58274,-52.72468,0,1508544
+1155,'1155','Confed Bldg',47.58255,-52.72561,0,1508544
 1160,'1160','College Of The N Atlantic',47.58729,-52.72061,0,1508570
 1165,'1165','Portugal Cv Rd After Prince Philip Dr',47.59064,-52.72122,0,1508575
 1170,'1170','Portugal Cv Rd @ Chancellor Pk',47.59389,-52.72534,0,1508601
@@ -840,7 +840,6 @@
 6156,'6156','Kenmount Rd After Ladysmith Dr',47.54750,-52.78610,0,1657500
 6157,'6157','Kenmount Rd @ Great Eastern Ave',47.54236,-52.79874,0,1657501
 6158,'6158','Oxen Pond Rd After Larkhall St',47.56532,-52.75265,0,1657502
-6159,'6159','Vinnicombe St Civic 1',47.56386,-52.74971,0,1657503
 6160,'6160','Baird Pl @ Canadian Blood Services',47.56677,-52.74790,0,1657525
 6162,'6162','Airport Near Arrivals',47.61273,-52.74747,0,1657527
 6163,'6163','World Pkwy Before Navigator Ave',47.61276,-52.74993,0,1657528
