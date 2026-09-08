@@ -28,7 +28,7 @@
 1140,'1140','University Ave Before CBC',47.56917,-52.74024,0,1508508
 1145,'1145','Clinch Cres Near Arctic Ave',47.57184,-52.73818,0,1508513
 1150,'1150','MUN Ctr',47.57337,-52.73568,0,1508539
-1155,'1155','Confed Bldg',47.58274,-52.72468,0,1508544
+1155,'1155','Confed Bldg',47.58255,-52.72561,0,1508544
 1160,'1160','College Of The N Atlantic',47.58729,-52.72061,0,1508570
 1165,'1165','Portugal Cv Rd After Prince Philip Dr',47.59064,-52.72122,0,1508575
 1170,'1170','Portugal Cv Rd @ Chancellor Pk',47.59389,-52.72534,0,1508601
@@ -316,7 +316,6 @@
 2780,'2780','Freshwater Rd After Anderson Ave',47.56327,-52.73385,0,1544189
 2785,'2785','Freshwater Rd Before Elizabeth Ave',47.56329,-52.73843,0,1544194
 2790,'2790','Westerland Rd Before Prince Philip Dr',47.57007,-52.73564,0,1544220
-2795,'2795','Clinch Cres Before Ronald McDonald House',47.57061,-52.74640,0,1544225
 2805,'2805','Crosbie Rd Before Crosbie Pl',47.56090,-52.74456,0,1544907
 2810,'2810','Crosbie Rd Opp Swilers Club',47.55887,-52.74284,0,1544933
 2820,'2820','Mundy Pond Rd Before Ropewalk Ln',47.55495,-52.73414,0,1544964
@@ -415,6 +414,9 @@
 3320,'3320','Airport Hts Dr Before Otter Dr',47.60497,-52.74755,0,1569950
 3325,'3325','Airport Hts Dr Before Gairlock St',47.60234,-52.74376,0,1569955
 3330,'3330','Airport Hts Dr Before Halls Rd',47.60114,-52.74054,0,1569981
+3335,'3335','Branscombe St After Halls Rd',47.59869,-52.74063,0,1569986
+3340,'3340','Branscombe St Civic 60',47.59732,-52.73642,0,1570012
+3345,'3345','Rhodora St',47.60130,-52.73758,0,1570017
 3350,'3350','Majors Path @ International Pl',47.60439,-52.73561,0,1570043
 3355,'3355','Majors Path Before Hebron Way',47.60799,-52.73171,0,1570048
 3370,'3370','Torbay Rd After Penney Ln',47.60396,-52.71775,0,1570105
@@ -450,7 +452,7 @@
 3520,'3520','Oxen Pond Rd Before Larkhall St',47.56556,-52.75262,0,1571872
 3530,'3530','Larkhall St Before Donegal Pl',47.56370,-52.75496,0,1571903
 3535,'3535','Regatta Terr Before Regiment Rd',47.58062,-52.68273,0,1571908
-3540,'3540','Cuckholds Cv Rd Before Maxxwell Pl',47.57963,-52.68123,0,1571934
+3540,'3540','Cuckholds Cv Rd Before Maxwell Pl',47.57963,-52.68123,0,1571934
 3550,'3550','Forest Rd Opp Civic 200',47.57967,-52.68538,0,1571965
 3555,'3555','Forest Rd Civic 179',47.57895,-52.68764,0,1571970
 3560,'3560','Forest Rd Civic 153',47.57802,-52.69056,0,1571996
@@ -500,7 +502,7 @@
 3810,'3810','Sunset St After Back Line',47.45458,-52.78298,0,1574724
 3815,'3815','Sunset St Opp McConnell Pl',47.45321,-52.77822,0,1574729
 3820,'3820','Cleary Dr Before Main Rd',47.45293,-52.77312,0,1574755
-3825,'3825','Main Rd After McGrath Pl W',47.45193,-52.77202,0,1574760
+3825,'3825','Main Rd After McGrath Pl W',47.45116,-52.77202,0,1574760
 3830,'3830','Main Rd Before Racetrack Rd',47.44724,-52.77187,0,1574786
 3835,'3835','Main Rd Civic 654',47.44485,-52.77141,0,1574791
 3840,'3840','Main Rd Opp Helena Rd',47.44163,-52.77069,0,1574817
@@ -590,7 +592,7 @@
 4285,'4285','Frecker Dr Before Greenspond Dr',47.53841,-52.76002,0,1598971
 4290,'4290','Frecker Dr Before Hamlyn Rd',47.53968,-52.75761,0,1598997
 4295,'4295','Hamlyn Rd After Curling Pl',47.53567,-52.75446,0,1599002
-4300,'4300','Hamlyn Rd After Barachoic St',47.53608,-52.75505,0,1599679
+4300,'4300','Hamlyn Rd After Barachois St',47.53608,-52.75505,0,1599679
 4305,'4305','Hamlyn Rd Before Vlg Shopping Ctr',47.53412,-52.75327,0,1599684
 4320,'4320','Old Placentia Rd After Commonwealth Ave',47.50513,-52.79312,0,1599741
 4325,'4325','Old Placentia Rd Before Westbrook Lndg',47.50288,-52.79753,0,1599746
@@ -726,7 +728,7 @@
 4960,'4960','Clinch Cres @ Faculty Of Medicine',47.57301,-52.74056,0,1605631
 4975,'4975','Main Rd Before Doolings Line',47.47373,-52.76955,0,1605667
 4980,'4980','Clinch Cres Before Prince Philip Dr',47.57154,-52.73818,0,1605693
-4982,'4982','Clinch Cres Opp Faculty Of Medicine',47.57276,-52.73970,0,1605695
+4982,'4982','Clinch Cres Opp Faculty Of Medicine',47.57315,-52.74049,0,1605695
 4985,'4985','Clinch Cres Opp Janeway',47.57235,-52.74450,0,1605698
 5020,'5020','Larkhall St Opp Donegal Pl',47.56326,-52.75504,0,1626649
 5025,'5025','Harvey Rd @ Longs Hl',47.56445,-52.71368,0,1626654
@@ -751,7 +753,6 @@
 6013,'6013','Great Eastern Ave Opp Pluto St',47.54696,-52.79928,0,1656412
 6014,'6014','Great Eastern Ave Before Kenmount Rd',47.54296,-52.80030,0,1656413
 6015,'6015','Kenmount Rd @ Honda',47.54346,-52.79536,0,1656414
-6027,'6027','Signal Hl @ Cabot Tower',47.57055,-52.68094,0,1656447
 6052,'6052','Ladysmith Dr @ Maurice Putt Cres',47.55072,-52.78921,0,1656535
 6053,'6053','Ladysmith Dr After Ophelia Pl',47.55286,-52.79039,0,1656536
 6054,'6054','Ladysmith Dr Opp Petite Forte Dr',47.55517,-52.79491,0,1656537
@@ -911,4 +912,4 @@
 6250,'6250','Hoyles Ave After Little St',47.56582,-52.73190,0,1658455
 6251,'6251','Anderson Ave Before Elizabeth Ave',47.56547,-52.73625,0,1658456
 6252,'6252','Mt Scio Rd @ Rainbow Riders',47.57760,-52.74542,0,1658457
-7010,'7010','Signal Hl Interpretation Ctr',47.57063,-52.68695,0,1686200
+6253,'6253','Masonic Pk Court E',47.53534,-52.81098,0,1658458
