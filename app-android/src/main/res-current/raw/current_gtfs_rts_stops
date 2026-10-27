@@ -7,8 +7,8 @@
 1035,'1035','Cornwall Ave After Craigmillar Ave',47.54267,-52.73492,0,1507521
 1040,'1040','Cornwall Ave Opp OReilly St',47.54371,-52.73423,0,1507547
 1045,'1045','Cornwall Ave After Cornwall Cres',47.54540,-52.73303,0,1507552
-1050,'1050','Hamilton Ave Before Shaw St',47.54767,-52.73113,0,1507578
-1055,'1055','Symonds Ave Before Carson Ave',47.55103,-52.72915,0,1507583
+1050,'1050','Hamilton Ave Before Shaw St',47.54753,-52.73134,0,1507578
+1055,'1055','Symonds Ave Before Carson Ave',47.55079,-52.72928,0,1507583
 1060,'1060','Cashin Ave After Blackmarsh Rd',47.55281,-52.73009,0,1507609
 1065,'1065','Cashin Ave Before Campbell Ave',47.55428,-52.73129,0,1507614
 1070,'1070','Cashin Ave Before Pennywell Rd',47.55673,-52.73320,0,1507640
@@ -17,7 +17,7 @@
 1085,'1085','Empire Ave @ Kellys Brk Apts',47.55800,-52.73815,0,1507676
 1090,'1090','Ropewalk Ln @ Sobeys',47.55606,-52.73670,0,1507702
 1095,'1095','Empire Ave Before Crosbie Rd',47.55616,-52.74161,0,1507707
-1100,'1100','Crosbie Rd Bldg 30',47.55657,-52.74398,0,1508384
+1100,'1100','Crosbie Rd Bldg 30',47.55643,-52.74383,0,1508384
 1105,'1105','Crosbie Rd Bldg 64',47.55776,-52.74314,0,1508389
 1110,'1110','Crosbie Rd @ Swilers Club',47.55883,-52.74250,0,1508415
 1115,'1115','Terra Nova Rd Before Stamps Ln',47.55983,-52.74169,0,1508420
@@ -28,7 +28,7 @@
 1140,'1140','University Ave Before CBC',47.56917,-52.74024,0,1508508
 1145,'1145','Clinch Cres Near Arctic Ave',47.57184,-52.73818,0,1508513
 1150,'1150','MUN Ctr',47.57337,-52.73568,0,1508539
-1155,'1155','Confed Bldg',47.58255,-52.72561,0,1508544
+1155,'1155','Confed Bldg',47.58274,-52.72468,0,1508544
 1160,'1160','College Of The N Atlantic',47.58729,-52.72061,0,1508570
 1165,'1165','Portugal Cv Rd After Prince Philip Dr',47.59064,-52.72122,0,1508575
 1170,'1170','Portugal Cv Rd @ Chancellor Pk',47.59389,-52.72534,0,1508601
@@ -73,7 +73,7 @@
 1355,'1355','Lemarchant Rd Opp St Clares Hosp',47.55738,-52.72048,0,1510466
 1360,'1360','Lemarchant Rd After Casey St',47.55925,-52.71888,0,1510492
 1365,'1365','Lemarchant Rd After Barters Hl',47.56183,-52.71671,0,1510497
-1375,'1375','Baird Pl @ Oxen Pond Rd',47.56539,-52.74883,0,1510528
+1375,'1375','Baird Pl @ Oxen Pond Rd',47.56506,-52.74899,0,1510528
 1380,'1380','Military Rd Opp Gathering Pl',47.56779,-52.70890,0,1510554
 1385,'1385','Military Rd After Kings Rd',47.56948,-52.70749,0,1510559
 1390,'1390','Military Rd Before Cochrane St',47.57120,-52.70454,0,1510585
@@ -82,10 +82,10 @@
 1405,'1405','Kings Bridge Rd @ Lk Ave',47.57578,-52.70293,0,1511272
 1410,'1410','The Blvd Before Carnell Dr',47.57842,-52.70172,0,1511298
 1415,'1415','The Blvd Opp CNIB',47.57988,-52.69924,0,1511303
-1420,'1420','Legion Rd Before Churchill Ave',47.58390,-52.69285,0,1511329
+1420,'1420','Legion Rd Before Churchill Ave',47.58379,-52.69316,0,1511329
 1425,'1425','Churchill Ave Before Langley Rd',47.58342,-52.69582,0,1511334
 1440,'1440','Charter Ave Bldg 77',47.58650,-52.69190,0,1511391
-1445,'1445','Charter Ave Opp Janeway Pl',47.58850,-52.68853,0,1511396
+1445,'1445','Charter Ave Opp Janeway Pl',47.58822,-52.68928,0,1511396
 1450,'1450','Charter Ave Before Veterans Rd',47.58877,-52.68663,0,1511422
 1455,'1455','E White Hls Rd Before Newfoundland Dr',47.59110,-52.68604,0,1511427
 1460,'1460','Newfoundland Dr Before Watson St',47.59262,-52.68727,0,1511453
@@ -120,16 +120,16 @@
 1605,'1605','OLeary Ave Before Peet St',47.56037,-52.76034,0,1513194
 1610,'1610','Peet St',47.55842,-52.76023,0,1513220
 1611,'1611','Kenmount Rd After Peet St',47.55756,-52.75858,0,1513221
-1613,'1613','Kenmount Rd Before Kelsey Dr',47.55104,-52.77731,0,1513223
+1613,'1613','Kenmount Rd Before Kelsey Dr',47.55128,-52.77685,0,1513223
 1614,'1614','Kenmount Rd After Pippy Pl',47.55514,-52.76738,0,1513224
 1615,'1615','Kenmount Rd After Polina Rd',47.55935,-52.75098,0,1513225
 1620,'1620','Freshwater Rd Before Crosbie Rd',47.56102,-52.74635,0,1513251
 1625,'1625','Freshwater Rd After Stamps Ln',47.56290,-52.74139,0,1513256
 1630,'1630','Elizabeth Ave Before Anderson Ave',47.56489,-52.73821,0,1513282
-1635,'1635','Elizabeth Ave Before Whiteway St',47.56695,-52.73584,0,1513287
+1635,'1635','Elizabeth Ave Before Whiteway St',47.56734,-52.73541,0,1513287
 1640,'1640','Elizabeth Ave Before Baltimore St',47.56927,-52.73330,0,1513313
 1645,'1645','Elizabeth Ave Before Halliday Pl',47.57095,-52.73023,0,1513318
-1655,'1655','Elizabeth Ave Before Bonaventure Ave',47.57266,-52.72692,0,1513349
+1655,'1655','Elizabeth Ave Before Bonaventure Ave',47.57287,-52.72654,0,1513349
 1660,'1660','Elizabeth Ave @ Churchill Sq',47.57533,-52.72329,0,1513375
 1665,'1665','Elizabeth Ave After Long Pong Rd',47.57792,-52.72058,0,1513380
 1670,'1670','Elizabeth Ave After Carpasian Rd',47.57990,-52.71687,0,1513406
@@ -184,6 +184,12 @@
 1930,'1930','Water St Before Sudbury St',47.54994,-52.71826,0,1516165
 1935,'1935','Water St Opp Patrick St',47.55238,-52.71543,0,1516170
 1940,'1940','Water St @ Railway Museum',47.55479,-52.71366,0,1516196
+1945,'1945','Water St @ Queen St',47.56015,-52.71099,0,1516201
+1950,'1950','Water St @ Bishops Cv',47.56109,-52.71039,0,1516227
+1955,'1955','Water St @ Becks Cv',47.56221,-52.70919,0,1516232
+1960,'1960','Water St @ Atlantic Pl',47.56310,-52.70796,0,1516258
+1965,'1965','Water St @ Clifts Bairds Cv',47.56455,-52.70655,0,1516263
+1970,'1970','Water St Before Jobs Cv',47.56545,-52.70560,0,1516289
 1975,'1975','Water St @ Harbourside Pk',47.56733,-52.70341,0,1516294
 1980,'1980','Duckworth St Before Hl OChips',47.56954,-52.70161,0,1516320
 1985,'1985','Cavendish Sq',47.57083,-52.70067,0,1516325
@@ -223,6 +229,10 @@
 2155,'2155','New Cv Rd Before Kings Bridge Rd',47.57781,-52.70591,0,1538335
 2160,'2160','Duckworth St After Ordnance St',47.56994,-52.70135,0,1538361
 2165,'2165','Water St @ Sir Humphrey Gilbert Bldg',47.56791,-52.70291,0,1538366
+2170,'2170','Water St After Prescott St',47.56592,-52.70527,0,1538392
+2175,'2175','Water St @ Supreme Court',47.56437,-52.70697,0,1538397
+2180,'2180','Water St After McBrides Hl',47.56299,-52.70834,0,1538423
+2185,'2185','Water St After George St',47.56205,-52.70976,0,1538428
 2190,'2190','Water St @ Convention Ctr',47.55941,-52.71177,0,1538454
 2195,'2195','Water St @ Brennan St',47.55595,-52.71305,0,1538459
 2200,'2200','Water St After Job St',47.55412,-52.71432,0,1539136
@@ -316,6 +326,7 @@
 2780,'2780','Freshwater Rd After Anderson Ave',47.56327,-52.73385,0,1544189
 2785,'2785','Freshwater Rd Before Elizabeth Ave',47.56329,-52.73843,0,1544194
 2790,'2790','Westerland Rd Before Prince Philip Dr',47.57007,-52.73564,0,1544220
+2795,'2795','Clinch Cres Before Ronald McDonald House',47.57061,-52.74640,0,1544225
 2805,'2805','Crosbie Rd Before Crosbie Pl',47.56090,-52.74456,0,1544907
 2810,'2810','Crosbie Rd Opp Swilers Club',47.55887,-52.74284,0,1544933
 2820,'2820','Mundy Pond Rd Before Ropewalk Ln',47.55495,-52.73414,0,1544964
@@ -449,7 +460,7 @@
 3500,'3500','Baird Pl @ Wicklow St',47.56698,-52.74788,0,1571810
 3510,'3510','Baird Pl @ Oxen Pond Rd',47.56532,-52.74907,0,1571841
 3515,'3515','Forest Rd Civic 180',47.57879,-52.68782,0,1571846
-3520,'3520','Oxen Pond Rd Before Larkhall St',47.56556,-52.75262,0,1571872
+3520,'3520','Oxen Pond Rd Before Larkhall St',47.56411,-52.75077,0,1571872
 3530,'3530','Larkhall St Before Donegal Pl',47.56370,-52.75496,0,1571903
 3535,'3535','Regatta Terr Before Regiment Rd',47.58062,-52.68273,0,1571908
 3540,'3540','Cuckholds Cv Rd Before Maxwell Pl',47.57963,-52.68123,0,1571934
@@ -502,7 +513,7 @@
 3810,'3810','Sunset St After Back Line',47.45458,-52.78298,0,1574724
 3815,'3815','Sunset St Opp McConnell Pl',47.45321,-52.77822,0,1574729
 3820,'3820','Cleary Dr Before Main Rd',47.45293,-52.77312,0,1574755
-3825,'3825','Main Rd After McGrath Pl W',47.45116,-52.77202,0,1574760
+3825,'3825','Main Rd After McGrath Pl W',47.45193,-52.77202,0,1574760
 3830,'3830','Main Rd Before Racetrack Rd',47.44724,-52.77187,0,1574786
 3835,'3835','Main Rd Civic 654',47.44485,-52.77141,0,1574791
 3840,'3840','Main Rd Opp Helena Rd',47.44163,-52.77069,0,1574817
@@ -556,7 +567,7 @@
 4105,'4105','Canada Dr Before Carmanville St',47.52650,-52.77744,0,1597762
 4110,'4110','Canada Dr Opp Portland Pl',47.52922,-52.77862,0,1597788
 4115,'4115','Hopeall St Opp Brownsdale St',47.53086,-52.77632,0,1597793
-4120,'4120','Frecker Dr Opp Gander Cres',47.53235,-52.77398,0,1597819
+4120,'4120','Frecker Dr Opp Gander Cres',47.53271,-52.77375,0,1597819
 4125,'4125','Frecker Dr Before Cherrington St',47.53497,-52.77186,0,1597824
 4130,'4130','Frecker Dr Opp Bellevue Cres',47.53593,-52.77148,0,1597850
 4135,'4135','Blackmarsh Rd Opp Burdell Pl',47.53900,-52.76911,0,1597855
@@ -728,7 +739,7 @@
 4960,'4960','Clinch Cres @ Faculty Of Medicine',47.57301,-52.74056,0,1605631
 4975,'4975','Main Rd Before Doolings Line',47.47373,-52.76955,0,1605667
 4980,'4980','Clinch Cres Before Prince Philip Dr',47.57154,-52.73818,0,1605693
-4982,'4982','Clinch Cres Opp Faculty Of Medicine',47.57315,-52.74049,0,1605695
+4982,'4982','Clinch Cres Opp Faculty Of Medicine',47.57276,-52.73970,0,1605695
 4985,'4985','Clinch Cres Opp Janeway',47.57235,-52.74450,0,1605698
 5020,'5020','Larkhall St Opp Donegal Pl',47.56326,-52.75504,0,1626649
 5025,'5025','Harvey Rd @ Longs Hl',47.56445,-52.71368,0,1626654
@@ -785,9 +796,9 @@
 6099,'6099','Ennis Ave After Hutton Rd',47.58993,-52.70405,0,1656666
 6100,'6100','Robin Hood Bay Rd Before E White Hls Rd',47.60966,-52.68330,0,1657339
 6101,'6101','Tipperary St',47.52459,-52.86833,0,1657340
-6102,'6102','Tiverton St @ Kinkora St',47.52589,-52.86897,0,1657341
-6103,'6103','Burnaby St After Croydon St',47.52668,-52.87003,0,1657342
-6104,'6104','McNamara Dr @ Topsail Rd',47.52708,-52.87209,0,1657343
+6102,'6102','Tiverton St @ Kinkora St',47.52628,-52.86892,0,1657341
+6103,'6103','Burnaby St After Croydon St',47.52639,-52.86880,0,1657342
+6104,'6104','McNamara Dr @ Topsail Rd',47.52762,-52.87243,0,1657343
 6105,'6105','Topsail Rd Opp Irving Dr',47.52993,-52.86830,0,1657344
 6106,'6106','Topsail Rd Opp Heightview Dr',47.53124,-52.86583,0,1657345
 6107,'6107','Sunvalley Dr Near Topsail Rd',47.53199,-52.86007,0,1657346
@@ -817,7 +828,7 @@
 6131,'6131','Carlisle Dr Opp Dungarvan St',47.53872,-52.83642,0,1657433
 6132,'6132','Carlisle Dr Opp Stonehaven Pl',47.53630,-52.83690,0,1657434
 6133,'6133','Topsail Rd @ Lawtons Drugs',47.53455,-52.85005,0,1657435
-6134,'6134','Trails End Dr Opp Eagle St',47.53355,-52.85569,0,1657436
+6134,'6134','Trails End Dr Opp Eagle St',47.53321,-52.85567,0,1657436
 6135,'6135','Trails End Dr After Ranger Rd',47.53546,-52.85411,0,1657437
 6136,'6136','Trails End Dr Before Milton Rd',47.53725,-52.85370,0,1657438
 6137,'6137','Milton Rd After Trails End Dr',47.53804,-52.85485,0,1657439
@@ -827,9 +838,10 @@
 6141,'6141','Topsail Rd Before Paradise Rd',47.53182,-52.86252,0,1657464
 6142,'6142','Topsail Rd After Heightview Dr',47.53126,-52.86639,0,1657465
 6143,'6143','Topsail Rd After Irving Rd',47.53013,-52.86857,0,1657466
-6144,'6144','Kenmount Rd Before Brougham Dr',47.53497,-52.82527,0,1657467
+6144,'6144','Kenmount Rd Before Brougham Dr',47.53497,-52.82528,0,1657467
 6145,'6145','Kenmount Rd @ Terra Nova Motors',47.54101,-52.80107,0,1657468
-6148,'6148','Burnaby St Before Tiverton St',47.52644,-52.86934,0,1657471
+6147,'6147','McNamara Dr @ Topsail Rd',47.52749,-52.87260,0,1657470
+6148,'6148','Burnaby St Before Tiverton St',47.52664,-52.87008,0,1657471
 6149,'6149','Tipperary St',47.52443,-52.86859,0,1657472
 6150,'6150','Kenmount Rd Before Pollard Ave',47.52012,-52.85875,0,1657494
 6151,'6151','Kenmount Rd Civic 1250',47.51786,-52.86367,0,1657495
@@ -837,12 +849,13 @@
 6153,'6153','McNamara Dr After Kenmount Rd',47.51597,-52.87129,0,1657497
 6154,'6154','McNamara Dr Opp Maverick Pl',47.51894,-52.87124,0,1657498
 6155,'6155','McNamara Dr @ Carpenters Millwright College',47.52281,-52.86839,0,1657499
-6156,'6156','Kenmount Rd After Ladysmith Dr',47.54750,-52.78610,0,1657500
+6156,'6156','Kenmount Rd After Ladysmith Dr',47.54739,-52.78595,0,1657500
 6157,'6157','Kenmount Rd @ Great Eastern Ave',47.54236,-52.79874,0,1657501
-6158,'6158','Oxen Pond Rd After Larkhall St',47.56532,-52.75265,0,1657502
+6158,'6158','Oxen Pond Rd After Larkhall St',47.56413,-52.75297,0,1657502
+6159,'6159','Vinnicombe St Civic 1',47.56386,-52.74971,0,1657503
 6160,'6160','Baird Pl @ Canadian Blood Services',47.56677,-52.74790,0,1657525
 6162,'6162','Airport Near Arrivals',47.61273,-52.74747,0,1657527
-6163,'6163','World Pkwy Before Navigator Ave',47.61276,-52.74993,0,1657528
+6163,'6163','World Pkwy Before Navigator Ave',47.61263,-52.74975,0,1657528
 6164,'6164','Airport Hts Dr After Elderberry Pl',47.60149,-52.74132,0,1657529
 6165,'6165','Airport Hts Dr Before Canso Pl',47.60369,-52.74460,0,1657530
 6166,'6166','Airport Hts Dr Opp Cherokee Dr',47.60530,-52.74779,0,1657531
@@ -858,7 +871,7 @@
 6177,'6177','Main Rd After Ruby Line',47.48752,-52.76812,0,1657563
 6178,'6178','Back Line After Doyles Rd',47.46144,-52.78384,0,1657564
 6179,'6179','Hebron Way Near Canadian Tire',47.61646,-52.72726,0,1657565
-6180,'6180','Kenmount Rd @ Mazda',47.55318,-52.77258,0,1657587
+6180,'6180','Kenmount Rd @ Mazda',47.55215,-52.77510,0,1657587
 6186,'6186','Bonaventure Ave Before Empire Ave',47.57005,-52.72243,0,1657593
 6189,'6189','Empire Ave After Welland St',47.54362,-52.76033,0,1657596
 6193,'6193','Airport Hts Dr Before Argus Pl',47.60240,-52.74346,0,1657621
@@ -877,16 +890,10 @@
 6207,'6207','Topsail Rd Near Waterford Vly S',47.53299,-52.75018,0,1658307
 6208,'6208','Castors Dr @ Topsail Rd',47.52610,-52.81656,0,1658308
 6209,'6209','Kenmount Rd After Ryans Ln',47.55092,-52.77697,0,1658309
-6210,'6210','Harbour Dr Opp Bishops Cv',47.56067,-52.70955,0,1658331
-6211,'6211','Harbour Dr Opp Ayres Cv',47.56268,-52.70721,0,1658332
-6212,'6212','Harbour Dr Opp Clifts Bairds Cv',47.56399,-52.70583,0,1658333
-6213,'6213','Harbour Dr @ Clifts Bairds Cv',47.56410,-52.70585,0,1658334
-6214,'6214','Harbour Dr @ Ayres Cv',47.56270,-52.70727,0,1658335
-6215,'6215','Harbour Dr @ Becks Cv',47.56135,-52.70905,0,1658336
 6216,'6216','Kenmount Rd After Nils Way',47.53668,-52.81753,0,1658337
 6217,'6217','Kenmount Rd Before Brant Dr',47.53654,-52.81661,0,1658338
 6218,'6218','Kenmount Rd Before Karwood Dr',47.52520,-52.85276,0,1658339
-6219,'6219','Kenmount Rd After Karwood Dr',47.52573,-52.85264,0,1658340
+6219,'6219','Kenmount Rd After Karwood Dr',47.52525,-52.85301,0,1658340
 6220,'6220','Lester St @ Hickman Pl',47.52532,-52.76675,0,1658362
 6221,'6221','Kenmount Rd Opp Crossroads Motel',47.52774,-52.83720,0,1658363
 6222,'6222','Kenmount Rd @ Crossroads Motel',47.52855,-52.83695,0,1658364
@@ -896,7 +903,7 @@
 6226,'6226','Merrymeeting Rd @ Sobeys',47.56668,-52.71466,0,1658368
 6230,'6230','Kelsey Dr Before Messenger Dr',47.55814,-52.78117,0,1658393
 6231,'6231','Mews Ctr',47.54856,-52.74026,0,1658394
-6237,'6237','Signal Hl Rd Near Murphys Ln',47.57265,-52.69275,0,1658400
+6237,'6237','Signal Hl Rd Near Murphys Ln',47.57275,-52.69268,0,1658400
 6238,'6238','Mt Scio Rd Opp Botanical Gdns',47.57116,-52.75817,0,1658401
 6239,'6239','Mt Scio Rd Opp Easter Seals',47.57451,-52.75112,0,1658402
 6240,'6240','Rdg Rd @ Marine Institute',47.58653,-52.73670,0,1658424
