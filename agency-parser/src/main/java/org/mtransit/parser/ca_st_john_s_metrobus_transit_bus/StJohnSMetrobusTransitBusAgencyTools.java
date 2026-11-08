@@ -18,8 +18,6 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-// https://www.metrobus.com/html-default/documents.asp
-// https://www.metrobus.com/gtfs.asp
 public class StJohnSMetrobusTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
